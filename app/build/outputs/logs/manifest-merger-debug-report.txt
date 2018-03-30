@@ -1,0 +1,162 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:5:5-40:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Ian/.android/build-cache/a033768992c9e9a689f2a122c0efd3f730f9857b/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] /Users/Ian/.android/build-cache/40b11410c310895ac1151393ea3ef303479ed40c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Ian/.android/build-cache/da75ca25485773b9db896843ad62d4f8fa98fcfb/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Ian/.android/build-cache/9e237cad255973e2ee72838cb202703d2b64a637/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/Ian/.android/build-cache/63e1c27b463cfec6d78809aa0749feb218a2e7ea/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/Ian/.android/build-cache/3d327fe370739116c91d45edd85f05d6491194e2/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Ian/.android/build-cache/cf27eb522448ed1943204455b129768953d5a73b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Ian/.android/build-cache/95f11dc3639d95778931e87c96e38fd628a9fcf8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Ian/.android/build-cache/b00fa5f30774a7e24b99619aa654e249935ebc02/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Ian/.android/build-cache/3552eb3e366f25ef2bd58b533721aea1bbd000ac/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Ian/.android/build-cache/fa82eb1991887a57b24d7fa0bf94df5c10eda901/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Ian/.android/build-cache/88a00bab7e0487b57ceccbfea560e3a08d396dbb/output/AndroidManifest.xml:29:5-20
+	android:screenOrientation
+		ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:12:9-45
+	android:label
+		ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.cs386.NAUToDo.LoginActivity
+ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:13:9-21:20
+	android:screenOrientation
+		ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:15:13-49
+	android:name
+		ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:14:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.cs386.NAUToDo.ListEditorActivity
+ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:22:9-23:51
+	android:screenOrientation
+		ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:23:13-49
+	android:name
+		ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:22:19-53
+activity#com.cs386.NAUToDo.FriendsActivity
+ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:24:9-89
+	android:screenOrientation
+		ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:24:51-87
+	android:name
+		ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:24:19-50
+activity#com.cs386.NAUToDo.MyListsActivity
+ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:25:9-89
+	android:screenOrientation
+		ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:25:51-87
+	android:name
+		ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:25:19-50
+activity#com.cs386.NAUToDo.StoresActivity
+ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:26:9-88
+	android:screenOrientation
+		ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:26:50-86
+	android:name
+		ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:26:19-49
+activity#com.cs386.NAUToDo.AboutActivity
+ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:27:9-87
+	android:screenOrientation
+		ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:27:49-85
+	android:name
+		ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:27:19-48
+activity#com.cs386.NAUToDo.ItemList
+ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:28:9-31:83
+	android:screenOrientation
+		ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:31:45-81
+	android:label
+		ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:30:13-61
+	android:theme
+		ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:31:13-44
+	android:name
+		ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:29:13-37
+activity#com.cs386.NAUToDo.EditItem
+ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:32:9-35:83
+	android:screenOrientation
+		ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:35:45-81
+	android:label
+		ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:34:13-61
+	android:theme
+		ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:35:13-44
+	android:name
+		ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:33:13-37
+activity#com.cs386.NAUToDo.SignUp
+ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:36:9-39:83
+	android:screenOrientation
+		ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:39:45-81
+	android:label
+		ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:38:13-59
+	android:theme
+		ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:39:13-44
+	android:name
+		ADDED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml:37:13-35
+uses-sdk
+INJECTED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Ian/.android/build-cache/a033768992c9e9a689f2a122c0efd3f730f9857b/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] /Users/Ian/.android/build-cache/40b11410c310895ac1151393ea3ef303479ed40c/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Ian/.android/build-cache/da75ca25485773b9db896843ad62d4f8fa98fcfb/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Ian/.android/build-cache/9e237cad255973e2ee72838cb202703d2b64a637/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/Ian/.android/build-cache/63e1c27b463cfec6d78809aa0749feb218a2e7ea/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/Ian/.android/build-cache/3d327fe370739116c91d45edd85f05d6491194e2/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/Ian/.android/build-cache/d88094541387c07e552d19d2b2611b32cb3486d9/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Ian/.android/build-cache/cf27eb522448ed1943204455b129768953d5a73b/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Ian/.android/build-cache/95f11dc3639d95778931e87c96e38fd628a9fcf8/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Ian/.android/build-cache/b00fa5f30774a7e24b99619aa654e249935ebc02/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Ian/.android/build-cache/3552eb3e366f25ef2bd58b533721aea1bbd000ac/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Ian/.android/build-cache/fa82eb1991887a57b24d7fa0bf94df5c10eda901/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Ian/.android/build-cache/88a00bab7e0487b57ceccbfea560e3a08d396dbb/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/Ian/.android/build-cache/40b11410c310895ac1151393ea3ef303479ed40c/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/Ian/.android/build-cache/40b11410c310895ac1151393ea3ef303479ed40c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Ian/.android/build-cache/da75ca25485773b9db896843ad62d4f8fa98fcfb/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Ian/.android/build-cache/9e237cad255973e2ee72838cb202703d2b64a637/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/Ian/.android/build-cache/63e1c27b463cfec6d78809aa0749feb218a2e7ea/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/Ian/.android/build-cache/3d327fe370739116c91d45edd85f05d6491194e2/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/Ian/.android/build-cache/d88094541387c07e552d19d2b2611b32cb3486d9/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Ian/.android/build-cache/cf27eb522448ed1943204455b129768953d5a73b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Ian/.android/build-cache/95f11dc3639d95778931e87c96e38fd628a9fcf8/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Ian/.android/build-cache/b00fa5f30774a7e24b99619aa654e249935ebc02/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Ian/.android/build-cache/3552eb3e366f25ef2bd58b533721aea1bbd000ac/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Ian/.android/build-cache/fa82eb1991887a57b24d7fa0bf94df5c10eda901/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Ian/.android/build-cache/88a00bab7e0487b57ceccbfea560e3a08d396dbb/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/Ian/.android/build-cache/40b11410c310895ac1151393ea3ef303479ed40c/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/Ian/.android/build-cache/40b11410c310895ac1151393ea3ef303479ed40c/output/AndroidManifest.xml:26:9-47

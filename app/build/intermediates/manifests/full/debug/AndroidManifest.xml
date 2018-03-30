@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.cs399.i_buy_3"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="25" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:screenOrientation="portrait"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.cs386.NAUToDo.LoginActivity"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.cs386.NAUToDo.ListEditorActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cs386.NAUToDo.FriendsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cs386.NAUToDo.MyListsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cs386.NAUToDo.StoresActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cs386.NAUToDo.AboutActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cs386.NAUToDo.ItemList"
+            android:label="@string/title_activity_item_list"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.cs386.NAUToDo.EditItem"
+            android:label="@string/title_activity_edit_item"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.cs386.NAUToDo.SignUp"
+            android:label="@string/title_activity_sign_up"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+    </application>
+
+</manifest>

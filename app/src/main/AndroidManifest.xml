@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.cs386.NAUToDo">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:screenOrientation="portrait">
+        <activity
+            android:name=".LoginActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ListEditorActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".FriendsActivity" android:screenOrientation="portrait"/>
+        <activity android:name=".MyListsActivity" android:screenOrientation="portrait"/>
+        <activity android:name=".StoresActivity" android:screenOrientation="portrait"/>
+        <activity android:name=".AboutActivity" android:screenOrientation="portrait"/>
+        <activity
+            android:name=".ItemList"
+            android:label="@string/title_activity_item_list"
+            android:theme="@style/AppTheme" android:screenOrientation="portrait"/>
+        <activity
+            android:name=".EditItem"
+            android:label="@string/title_activity_edit_item"
+            android:theme="@style/AppTheme" android:screenOrientation="portrait"/>
+        <activity
+            android:name=".SignUp"
+            android:label="@string/title_activity_sign_up"
+            android:theme="@style/AppTheme" android:screenOrientation="portrait"/>
+    </application>
+
+</manifest>
