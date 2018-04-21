@@ -4,6 +4,10 @@
         "source": "/Users/ian/Desktop/I_Buy_3/app/src/main/res/layout/fragment_list.xml"
     },
     {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/ian/.android/build-cache/2171b3a899371683280f4d0b68d6949f3dbc9f51/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
         "merged": "/Volumes/Time Machine/Extra Files/CS_399/project_3/I_Buy_3-2 copy/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
         "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/layout/select_dialog_multichoice_material.xml"
     },
@@ -28,20 +32,36 @@
         "source": "/Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/res/layout/content_item_list2.xml"
     },
     {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/layout_navigation_header.xml",
+        "source": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/src/main/res/layout/layout_navigation_header.xml"
+    },
+    {
         "merged": "/Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
         "source": "/Users/Ian/.android/build-cache/40b11410c310895ac1151393ea3ef303479ed40c/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/activity_item_list.xml",
+        "source": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/src/main/res/layout/activity_item_list.xml"
     },
     {
         "merged": "/Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
         "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/layout/abc_screen_simple.xml"
     },
     {
-        "merged": "/Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
-        "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/layout/abc_action_mode_bar.xml"
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/abc_list_menu_item_radio.xml"
     },
     {
         "merged": "/Volumes/Time Machine/Extra Files/CS_399/project_3/I_Buy_3-2 copy/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
         "source": "/Users/Ian/.android/build-cache/40b11410c310895ac1151393ea3ef303479ed40c/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/fragment_list.xml",
+        "source": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/src/main/res/layout/fragment_list.xml"
     },
     {
         "merged": "/Users/ian/Desktop/I_Buy_3/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
@@ -64,16 +84,48 @@
         "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/activity_edit_item.xml",
+        "source": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/src/main/res/layout/activity_edit_item.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/notification_template_part_time.xml"
+    },
+    {
         "merged": "/Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
         "source": "/Users/Ian/.android/build-cache/40b11410c310895ac1151393ea3ef303479ed40c/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
         "merged": "/Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
         "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/layout/notification_template_icon_group.xml"
     },
     {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/ian/.android/build-cache/2171b3a899371683280f4d0b68d6949f3dbc9f51/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
         "merged": "/Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
         "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/notification_template_media_custom.xml"
     },
     {
         "merged": "/Users/ian/Desktop/I_Buy_3/app/build/intermediates/res/merged/debug/layout/activity_about.xml",
@@ -100,8 +152,16 @@
         "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/layout/notification_action.xml"
     },
     {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
         "merged": "/Users/ian/Desktop/I_Buy_3/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
         "source": "/Users/ian/.android/build-cache/2171b3a899371683280f4d0b68d6949f3dbc9f51/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/list_row.xml",
+        "source": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/src/main/res/layout/list_row.xml"
     },
     {
         "merged": "/Users/ian/Desktop/I_Buy_3/app/build/intermediates/res/merged/debug/layout/layout_navigation_header.xml",
@@ -112,24 +172,28 @@
         "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/layout/abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "/Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+        "merged": "/Users/ian/Desktop/I_Buy_3/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/notification_action_tombstone.xml"
     },
     {
         "merged": "/Volumes/Time Machine/Extra Files/CS_399/project_3/I_Buy_3-2 copy/app/build/intermediates/res/merged/debug/layout/activity_my_lists.xml",
         "source": "/Volumes/Time Machine/Extra Files/CS_399/project_3/I_Buy_3-2 copy/app/src/main/res/layout/activity_my_lists.xml"
     },
     {
-        "merged": "/Users/ian/Desktop/I_Buy_3/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
-        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/notification_action_tombstone.xml"
+        "merged": "/Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "/Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
-        "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/layout/abc_select_dialog_material.xml"
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/ian/.android/build-cache/2171b3a899371683280f4d0b68d6949f3dbc9f51/output/res/layout/design_navigation_item_header.xml"
     },
     {
         "merged": "/Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
         "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/layout/abc_select_dialog_material.xml"
     },
     {
         "merged": "/Volumes/Time Machine/Extra Files/CS_399/project_3/I_Buy_3-2 copy/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
@@ -140,6 +204,10 @@
         "source": "/Volumes/Time Machine/Extra Files/CS_399/project_3/I_Buy_3-2 copy/app/src/main/res/layout/layout_navigation_header.xml"
     },
     {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/abc_screen_simple.xml"
+    },
+    {
         "merged": "/Volumes/Time Machine/Extra Files/CS_399/project_3/I_Buy_3-2 copy/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
         "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/layout/notification_action_tombstone.xml"
     },
@@ -148,12 +216,16 @@
         "source": "/Volumes/Time Machine/Extra Files/CS_399/project_3/I_Buy_3-2 copy/app/src/main/res/layout/activity_friends.xml"
     },
     {
+        "merged": "/Users/ian/Desktop/I_Buy_3/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
         "merged": "/Volumes/Time Machine/Extra Files/CS_399/project_3/I_Buy_3-2 copy/app/build/intermediates/res/merged/debug/layout/content_item_list.xml",
         "source": "/Volumes/Time Machine/Extra Files/CS_399/project_3/I_Buy_3-2 copy/app/src/main/res/layout/content_item_list.xml"
     },
     {
-        "merged": "/Users/ian/Desktop/I_Buy_3/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
-        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/abc_screen_toolbar.xml"
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/abc_alert_dialog_material.xml"
     },
     {
         "merged": "/Users/ian/Desktop/I_Buy_3/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
@@ -164,12 +236,12 @@
         "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "/Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/activity_stores.xml",
-        "source": "/Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/res/layout/activity_stores.xml"
-    },
-    {
         "merged": "/Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
         "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/activity_stores.xml",
+        "source": "/Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/res/layout/activity_stores.xml"
     },
     {
         "merged": "/Users/ian/Desktop/I_Buy_3/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
@@ -228,6 +300,14 @@
         "source": "/Users/ian/Desktop/I_Buy_3/app/src/main/res/layout/activity_item_list2.xml"
     },
     {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/ian/.android/build-cache/2171b3a899371683280f4d0b68d6949f3dbc9f51/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
         "merged": "/Users/ian/Desktop/I_Buy_3/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
         "source": "/Users/ian/.android/build-cache/2171b3a899371683280f4d0b68d6949f3dbc9f51/output/res/layout/design_layout_tab_icon.xml"
     },
@@ -236,28 +316,32 @@
         "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
+        "merged": "/Users/ian/Desktop/I_Buy_3/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
         "merged": "/Volumes/Time Machine/Extra Files/CS_399/project_3/I_Buy_3-2 copy/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
         "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/layout/notification_template_lines_media.xml"
     },
     {
-        "merged": "/Users/ian/Desktop/I_Buy_3/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
-        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/abc_action_mode_close_item_material.xml"
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/ian/.android/build-cache/2171b3a899371683280f4d0b68d6949f3dbc9f51/output/res/layout/design_menu_item_action_area.xml"
     },
     {
         "merged": "/Users/ian/Desktop/I_Buy_3/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
         "source": "/Users/ian/.android/build-cache/2171b3a899371683280f4d0b68d6949f3dbc9f51/output/res/layout/design_navigation_item_subheader.xml"
     },
     {
-        "merged": "/Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
-        "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/layout/abc_list_menu_item_layout.xml"
+        "merged": "/Volumes/Time Machine/Extra Files/CS_399/project_3/I_Buy_3-2 copy/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
         "merged": "/Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
         "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/layout/notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/Volumes/Time Machine/Extra Files/CS_399/project_3/I_Buy_3-2 copy/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
-        "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/layout/abc_action_mode_close_item_material.xml"
+        "merged": "/Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/layout/abc_list_menu_item_layout.xml"
     },
     {
         "merged": "/Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
@@ -276,6 +360,10 @@
         "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/abc_dialog_title_material.xml"
     },
     {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/activity_my_lists.xml",
+        "source": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/src/main/res/layout/activity_my_lists.xml"
+    },
+    {
         "merged": "/Users/ian/Desktop/I_Buy_3/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
         "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/notification_template_part_time.xml"
     },
@@ -284,12 +372,12 @@
         "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/layout/abc_search_view.xml"
     },
     {
-        "merged": "/Users/ian/Desktop/I_Buy_3/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
-        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/notification_action.xml"
-    },
-    {
         "merged": "/Users/ian/Desktop/I_Buy_3/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
         "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/ian/Desktop/I_Buy_3/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/notification_action.xml"
     },
     {
         "merged": "/Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/activity_item_list.xml",
@@ -300,12 +388,20 @@
         "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
         "merged": "/Users/ian/Desktop/I_Buy_3/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
         "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/abc_list_menu_item_radio.xml"
     },
     {
         "merged": "/Users/ian/Desktop/I_Buy_3/app/build/intermediates/res/merged/debug/layout/fragment_navigation_drawer.xml",
         "source": "/Users/ian/Desktop/I_Buy_3/app/src/main/res/layout/fragment_navigation_drawer.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/abc_screen_content_include.xml"
     },
     {
         "merged": "/Volumes/Time Machine/Extra Files/CS_399/project_3/I_Buy_3-2 copy/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
@@ -318,6 +414,22 @@
     {
         "merged": "/Users/ian/Desktop/I_Buy_3/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
         "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/activity_item_list2.xml",
+        "source": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/src/main/res/layout/activity_item_list2.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/content_item_list2.xml",
+        "source": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/src/main/res/layout/content_item_list2.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "/Volumes/Time Machine/Extra Files/CS_399/project_3/I_Buy_3-2 copy/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
@@ -388,6 +500,10 @@
         "source": "/Volumes/Time Machine/Extra Files/CS_399/project_3/I_Buy_3-2 copy/app/src/main/res/layout/activity_login.xml"
     },
     {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/my_list_item.xml",
+        "source": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/src/main/res/layout/my_list_item.xml"
+    },
+    {
         "merged": "/Volumes/Time Machine/Extra Files/CS_399/project_3/I_Buy_3-2 copy/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
         "source": "/Users/Ian/.android/build-cache/40b11410c310895ac1151393ea3ef303479ed40c/output/res/layout/design_bottom_sheet_dialog.xml"
     },
@@ -452,8 +568,20 @@
         "source": "/Users/Ian/.android/build-cache/40b11410c310895ac1151393ea3ef303479ed40c/output/res/layout/design_layout_tab_icon.xml"
     },
     {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
         "merged": "/Volumes/Time Machine/Extra Files/CS_399/project_3/I_Buy_3-2 copy/app/build/intermediates/res/merged/debug/layout/content_edit_item.xml",
         "source": "/Volumes/Time Machine/Extra Files/CS_399/project_3/I_Buy_3-2 copy/app/src/main/res/layout/content_edit_item.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/content_item_list.xml",
+        "source": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/src/main/res/layout/content_item_list.xml"
     },
     {
         "merged": "/Users/ian/Desktop/I_Buy_3/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
@@ -520,6 +648,14 @@
         "source": "/Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/res/layout/activity_item_list2.xml"
     },
     {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
         "merged": "/Volumes/Time Machine/Extra Files/CS_399/project_3/I_Buy_3-2 copy/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
         "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
@@ -542,6 +678,10 @@
     {
         "merged": "/Volumes/Time Machine/Extra Files/CS_399/project_3/I_Buy_3-2 copy/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
         "source": "/Users/Ian/.android/build-cache/40b11410c310895ac1151393ea3ef303479ed40c/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/notification_template_custom_big.xml"
     },
     {
         "merged": "/Volumes/Time Machine/Extra Files/CS_399/project_3/I_Buy_3-2 copy/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
@@ -580,6 +720,10 @@
         "source": "/Users/ian/Desktop/I_Buy_3/app/src/main/res/layout/activity_edit_item.xml"
     },
     {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/activity_sign_up.xml",
+        "source": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/src/main/res/layout/activity_sign_up.xml"
+    },
+    {
         "merged": "/Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
         "source": "/Users/Ian/.android/build-cache/40b11410c310895ac1151393ea3ef303479ed40c/output/res/layout/design_bottom_navigation_item.xml"
     },
@@ -592,12 +736,20 @@
         "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/layout/abc_activity_chooser_view.xml"
     },
     {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/ian/.android/build-cache/2171b3a899371683280f4d0b68d6949f3dbc9f51/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
         "merged": "/Users/ian/Desktop/I_Buy_3/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
         "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
         "merged": "/Volumes/Time Machine/Extra Files/CS_399/project_3/I_Buy_3-2 copy/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
         "source": "/Users/Ian/.android/build-cache/40b11410c310895ac1151393ea3ef303479ed40c/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/abc_screen_toolbar.xml"
     },
     {
         "merged": "/Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/activity_list_editor.xml",
@@ -624,6 +776,14 @@
         "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/abc_list_menu_item_layout.xml"
     },
     {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/activity_list_editor.xml",
+        "source": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/src/main/res/layout/activity_list_editor.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/ian/.android/build-cache/2171b3a899371683280f4d0b68d6949f3dbc9f51/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
         "merged": "/Volumes/Time Machine/Extra Files/CS_399/project_3/I_Buy_3-2 copy/app/build/intermediates/res/merged/debug/layout/content_sign_up.xml",
         "source": "/Volumes/Time Machine/Extra Files/CS_399/project_3/I_Buy_3-2 copy/app/src/main/res/layout/content_sign_up.xml"
     },
@@ -644,6 +804,14 @@
         "source": "/Users/Ian/.android/build-cache/40b11410c310895ac1151393ea3ef303479ed40c/output/res/layout/design_navigation_menu_item.xml"
     },
     {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/content_edit_item.xml",
+        "source": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/src/main/res/layout/content_edit_item.xml"
+    },
+    {
         "merged": "/Users/ian/Desktop/I_Buy_3/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
         "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/notification_template_media_custom.xml"
     },
@@ -660,12 +828,20 @@
         "source": "/Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/res/layout/activity_my_lists.xml"
     },
     {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/ian/.android/build-cache/2171b3a899371683280f4d0b68d6949f3dbc9f51/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
         "merged": "/Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
         "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/layout/notification_template_lines_media.xml"
     },
     {
         "merged": "/Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
         "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/abc_action_mode_bar.xml"
     },
     {
         "merged": "/Volumes/Time Machine/Extra Files/CS_399/project_3/I_Buy_3-2 copy/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
@@ -696,6 +872,10 @@
         "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/layout/abc_list_menu_item_icon.xml"
     },
     {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
         "merged": "/Volumes/Time Machine/Extra Files/CS_399/project_3/I_Buy_3-2 copy/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
         "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/layout/abc_list_menu_item_checkbox.xml"
     },
@@ -712,6 +892,14 @@
         "source": "/Users/Ian/.android/build-cache/40b11410c310895ac1151393ea3ef303479ed40c/output/res/layout/design_navigation_menu.xml"
     },
     {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/ian/.android/build-cache/2171b3a899371683280f4d0b68d6949f3dbc9f51/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/fragment_navigation_drawer.xml",
+        "source": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/src/main/res/layout/fragment_navigation_drawer.xml"
+    },
+    {
         "merged": "/Volumes/Time Machine/Extra Files/CS_399/project_3/I_Buy_3-2 copy/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
         "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/layout/abc_screen_simple.xml"
     },
@@ -724,8 +912,20 @@
         "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/layout/notification_template_custom_big.xml"
     },
     {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
         "merged": "/Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
         "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/abc_action_bar_up_container.xml"
     },
     {
         "merged": "/Volumes/Time Machine/Extra Files/CS_399/project_3/I_Buy_3-2 copy/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
@@ -744,8 +944,20 @@
         "source": "/Users/ian/Desktop/I_Buy_3/app/src/main/res/layout/content_item_list2.xml"
     },
     {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/activity_friends.xml",
+        "source": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/src/main/res/layout/activity_friends.xml"
+    },
+    {
         "merged": "/Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
         "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/src/main/res/layout/activity_login.xml"
     },
     {
         "merged": "/Volumes/Time Machine/Extra Files/CS_399/project_3/I_Buy_3-2 copy/app/build/intermediates/res/merged/debug/layout/activity_item_list2.xml",
@@ -756,8 +968,16 @@
         "source": "/Users/Ian/.android/build-cache/40b11410c310895ac1151393ea3ef303479ed40c/output/res/layout/design_layout_tab_text.xml"
     },
     {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/ian/.android/build-cache/2171b3a899371683280f4d0b68d6949f3dbc9f51/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
         "merged": "/Volumes/Time Machine/Extra Files/CS_399/project_3/I_Buy_3-2 copy/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
         "source": "/Users/Ian/.android/build-cache/40b11410c310895ac1151393ea3ef303479ed40c/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/select_dialog_singlechoice_material.xml"
     },
     {
         "merged": "/Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/layout_navigation_header.xml",
@@ -770,6 +990,10 @@
     {
         "merged": "/Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
         "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/abc_action_menu_layout.xml"
     },
     {
         "merged": "/Users/ian/Desktop/I_Buy_3/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
@@ -788,6 +1012,10 @@
         "source": "/Volumes/Time Machine/Extra Files/CS_399/project_3/I_Buy_3-2 copy/app/src/main/res/layout/fragment_list.xml"
     },
     {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
         "merged": "/Users/ian/Desktop/I_Buy_3/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
         "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/abc_expanded_menu_layout.xml"
     },
@@ -798,6 +1026,22 @@
     {
         "merged": "/Users/ian/Desktop/I_Buy_3/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
         "source": "/Users/ian/.android/build-cache/2171b3a899371683280f4d0b68d6949f3dbc9f51/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/app_bar.xml",
+        "source": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/src/main/res/layout/app_bar.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/ian/.android/build-cache/2171b3a899371683280f4d0b68d6949f3dbc9f51/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
         "merged": "/Users/ian/Desktop/I_Buy_3/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
@@ -824,12 +1068,36 @@
         "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/layout/abc_popup_menu_header_item_layout.xml"
     },
     {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/activity_stores.xml",
+        "source": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/src/main/res/layout/activity_stores.xml"
+    },
+    {
         "merged": "/Users/ian/Desktop/I_Buy_3/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
         "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/content_sign_up.xml",
+        "source": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/src/main/res/layout/content_sign_up.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/ian/.android/build-cache/2171b3a899371683280f4d0b68d6949f3dbc9f51/output/res/layout/design_navigation_item.xml"
+    },
+    {
         "merged": "/Volumes/Time Machine/Extra Files/CS_399/project_3/I_Buy_3-2 copy/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
         "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/ian/.android/build-cache/2171b3a899371683280f4d0b68d6949f3dbc9f51/output/res/layout/design_text_input_password_icon.xml"
     },
     {
         "merged": "/Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
@@ -838,6 +1106,14 @@
     {
         "merged": "/Users/ian/Desktop/I_Buy_3/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
         "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/abc_search_view.xml"
     },
     {
         "merged": "/Users/ian/Desktop/I_Buy_3/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
@@ -852,12 +1128,28 @@
         "source": "/Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/src/main/res/layout/content_item_list.xml"
     },
     {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
         "merged": "/Volumes/Time Machine/Extra Files/CS_399/project_3/I_Buy_3-2 copy/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
         "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/layout/abc_screen_content_include.xml"
     },
     {
         "merged": "/Volumes/Time Machine/Extra Files/CS_399/project_3/I_Buy_3-2 copy/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
         "source": "/Users/Ian/.android/build-cache/40b11410c310895ac1151393ea3ef303479ed40c/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/ian/.android/build-cache/2171b3a899371683280f4d0b68d6949f3dbc9f51/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
         "merged": "/Volumes/Time Machine/Extra Files/CS_399/project_3/I_Buy_3-2 copy/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
@@ -886,5 +1178,9 @@
     {
         "merged": "/Volumes/Time Machine/Extra Files/CS_399/project_3/I_Buy_3-2 copy/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
         "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/layout/activity_about.xml",
+        "source": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/src/main/res/layout/activity_about.xml"
     }
 ]

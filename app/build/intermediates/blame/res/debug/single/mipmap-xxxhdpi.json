@@ -22,5 +22,13 @@
     {
         "merged": "/Volumes/Time Machine/Extra Files/CS_399/project_3/I_Buy_3-2 copy/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
         "source": "/Volumes/Time Machine/Extra Files/CS_399/project_3/I_Buy_3-2 copy/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
     }
 ]

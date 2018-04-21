@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
         "merged": "/Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
         "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
@@ -20,8 +24,16 @@
         "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
         "merged": "/Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
         "source": "/Users/Ian/.android/build-cache/452aea3fb97d0a8d5b5d34b33fa79552d2fb5227/output/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/ian/.android/build-cache/99ebf1574d027168a371feeb78581fe57c50ff9d/output/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "/Users/ian/Desktop/I_Buy_3/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",

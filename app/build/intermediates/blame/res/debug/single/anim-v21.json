@@ -4,6 +4,10 @@
         "source": "/Users/Ian/.android/build-cache/40b11410c310895ac1151393ea3ef303479ed40c/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
     },
     {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/ian/.android/build-cache/2171b3a899371683280f4d0b68d6949f3dbc9f51/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
         "merged": "/Users/ian/Desktop/I_Buy_3/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
         "source": "/Users/ian/.android/build-cache/2171b3a899371683280f4d0b68d6949f3dbc9f51/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
     },
@@ -18,6 +22,10 @@
     {
         "merged": "/Volumes/Time Machine/Extra Files/CS_399/project_3/I_Buy_3-2 copy/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
         "source": "/Users/Ian/.android/build-cache/40b11410c310895ac1151393ea3ef303479ed40c/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/ian/Computer_Science/CS_386/NAUToDo_VCS/NAUToDo-V1/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/ian/.android/build-cache/2171b3a899371683280f4d0b68d6949f3dbc9f51/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
     },
     {
         "merged": "/Users/Ian/Computer_Science/Coursework/Semester_6/CS_386/NAUToDo-V1/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
