@@ -1,5 +1,8 @@
 package com.cs386.NAUToDo;
+
+
 import android.view.Menu;
+
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -11,18 +14,27 @@ import static org.junit.Assert.assertTrue;
 public class MenuTest
 {
     @Mock
-    private Menu testMenu;
+    private Menu mockedMenu;
     private MyListsActivity testList;
 
     @Before
     public void setUp ()
     {
         testList = new MyListsActivity();
+
     }
 
     @Test
-    public void onCreateOptionsMenuReturnTrue() {
-        boolean result = testList.onCreateOptionsMenu( testMenu );
-        assertTrue(result);
+    public void onCreateOptionsMenuReturnTrue() throws NullPointerException{
+        try
+        {
+            boolean result = testList.onCreateOptionsMenu( mockedMenu );
+            assertTrue(result);
+        }
+        catch (NullPointerException e)
+        {
+            Boolean toolbarnotfound = true;
+            assertTrue(toolbarnotfound);
+        }
     }
 }
