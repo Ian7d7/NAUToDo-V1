@@ -5,7 +5,7 @@ package com.cs386.NAUToDo;
 
 public final class BuildConfig {
   public static final boolean DEBUG = Boolean.parseBoolean("true");
-  public static final String APPLICATION_ID = "com.cs399.i_buy_3";
+  public static final String APPLICATION_ID = "com.cs386.NAUToDo";
   public static final String BUILD_TYPE = "debug";
   public static final String FLAVOR = "";
   public static final int VERSION_CODE = 1;

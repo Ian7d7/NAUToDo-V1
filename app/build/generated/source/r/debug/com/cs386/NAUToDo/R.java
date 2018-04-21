@@ -4025,35 +4025,35 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background com.cs399.i_buy_3:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit com.cs399.i_buy_3:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked com.cs399.i_buy_3:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd com.cs399.i_buy_3:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.cs399.i_buy_3:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft com.cs399.i_buy_3:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight com.cs399.i_buy_3:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart com.cs399.i_buy_3:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.cs399.i_buy_3:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout com.cs399.i_buy_3:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions com.cs399.i_buy_3:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider com.cs399.i_buy_3:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation com.cs399.i_buy_3:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height com.cs399.i_buy_3:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.cs399.i_buy_3:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.cs399.i_buy_3:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout com.cs399.i_buy_3:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon com.cs399.i_buy_3:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.cs399.i_buy_3:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding com.cs399.i_buy_3:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo com.cs399.i_buy_3:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode com.cs399.i_buy_3:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme com.cs399.i_buy_3:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding com.cs399.i_buy_3:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle com.cs399.i_buy_3:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle com.cs399.i_buy_3:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.cs399.i_buy_3:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title com.cs399.i_buy_3:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle com.cs399.i_buy_3:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background com.cs386.NAUToDo:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit com.cs386.NAUToDo:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked com.cs386.NAUToDo:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd com.cs386.NAUToDo:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.cs386.NAUToDo:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft com.cs386.NAUToDo:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight com.cs386.NAUToDo:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart com.cs386.NAUToDo:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.cs386.NAUToDo:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout com.cs386.NAUToDo:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions com.cs386.NAUToDo:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider com.cs386.NAUToDo:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation com.cs386.NAUToDo:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height com.cs386.NAUToDo:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.cs386.NAUToDo:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.cs386.NAUToDo:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout com.cs386.NAUToDo:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon com.cs386.NAUToDo:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.cs386.NAUToDo:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding com.cs386.NAUToDo:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo com.cs386.NAUToDo:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode com.cs386.NAUToDo:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme com.cs386.NAUToDo:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding com.cs386.NAUToDo:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle com.cs386.NAUToDo:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle com.cs386.NAUToDo:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.cs386.NAUToDo:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title com.cs386.NAUToDo:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle com.cs386.NAUToDo:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -4096,17 +4096,17 @@ containing a value of this type.
             0x7f01008c
         };
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#background}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:background
+          @attr name com.cs386.NAUToDo:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4114,11 +4114,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.cs399.i_buy_3:backgroundSplit
+          @attr name com.cs386.NAUToDo:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4126,11 +4126,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.cs399.i_buy_3:backgroundStacked
+          @attr name com.cs386.NAUToDo:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4142,11 +4142,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:contentInsetEnd
+          @attr name com.cs386.NAUToDo:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4158,11 +4158,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:contentInsetEndWithActions
+          @attr name com.cs386.NAUToDo:contentInsetEndWithActions
         */
         public static final int ActionBar_contentInsetEndWithActions = 25;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4174,11 +4174,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:contentInsetLeft
+          @attr name com.cs386.NAUToDo:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4190,11 +4190,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:contentInsetRight
+          @attr name com.cs386.NAUToDo:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4206,11 +4206,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:contentInsetStart
+          @attr name com.cs386.NAUToDo:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4222,21 +4222,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:contentInsetStartWithNavigation
+          @attr name com.cs386.NAUToDo:contentInsetStartWithNavigation
         */
         public static final int ActionBar_contentInsetStartWithNavigation = 24;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:customNavigationLayout
+          @attr name com.cs386.NAUToDo:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4254,21 +4254,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:displayOptions
+          @attr name com.cs386.NAUToDo:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:divider
+          @attr name com.cs386.NAUToDo:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4280,11 +4280,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:elevation
+          @attr name com.cs386.NAUToDo:elevation
         */
         public static final int ActionBar_elevation = 26;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#height}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4296,11 +4296,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:height
+          @attr name com.cs386.NAUToDo:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4310,51 +4310,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:hideOnContentScroll
+          @attr name com.cs386.NAUToDo:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:homeAsUpIndicator
+          @attr name com.cs386.NAUToDo:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 28;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:homeLayout
+          @attr name com.cs386.NAUToDo:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#icon}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:icon
+          @attr name com.cs386.NAUToDo:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:indeterminateProgressStyle
+          @attr name com.cs386.NAUToDo:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4366,21 +4366,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:itemPadding
+          @attr name com.cs386.NAUToDo:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:logo
+          @attr name com.cs386.NAUToDo:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4394,21 +4394,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:navigationMode
+          @attr name com.cs386.NAUToDo:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:popupTheme
+          @attr name com.cs386.NAUToDo:popupTheme
         */
         public static final int ActionBar_popupTheme = 27;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4420,21 +4420,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:progressBarPadding
+          @attr name com.cs386.NAUToDo:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:progressBarStyle
+          @attr name com.cs386.NAUToDo:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4444,21 +4444,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:subtitle
+          @attr name com.cs386.NAUToDo:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:subtitleTextStyle
+          @attr name com.cs386.NAUToDo:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#title}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4468,17 +4468,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:title
+          @attr name com.cs386.NAUToDo:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:titleTextStyle
+          @attr name com.cs386.NAUToDo:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -4530,12 +4530,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background com.cs399.i_buy_3:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit com.cs399.i_buy_3:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout com.cs399.i_buy_3:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height com.cs399.i_buy_3:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.cs399.i_buy_3:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle com.cs399.i_buy_3:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background com.cs386.NAUToDo:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit com.cs386.NAUToDo:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout com.cs386.NAUToDo:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height com.cs386.NAUToDo:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.cs386.NAUToDo:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle com.cs386.NAUToDo:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -4549,17 +4549,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01003a, 0x7f01004a
         };
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#background}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:background
+          @attr name com.cs386.NAUToDo:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -4567,21 +4567,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.cs399.i_buy_3:backgroundSplit
+          @attr name com.cs386.NAUToDo:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:closeItemLayout
+          @attr name com.cs386.NAUToDo:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#height}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -4593,27 +4593,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:height
+          @attr name com.cs386.NAUToDo:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:subtitleTextStyle
+          @attr name com.cs386.NAUToDo:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:titleTextStyle
+          @attr name com.cs386.NAUToDo:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -4622,8 +4622,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.cs399.i_buy_3:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.cs399.i_buy_3:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.cs386.NAUToDo:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.cs386.NAUToDo:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -4632,17 +4632,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01004b, 0x7f01004c
         };
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:expandActivityOverflowButtonDrawable
+          @attr name com.cs386.NAUToDo:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -4652,7 +4652,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:initialActivityCount
+          @attr name com.cs386.NAUToDo:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AlertDialog.
@@ -4662,12 +4662,12 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.cs399.i_buy_3:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout com.cs399.i_buy_3:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout com.cs399.i_buy_3:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.cs399.i_buy_3:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_showTitle com.cs399.i_buy_3:showTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.cs399.i_buy_3:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.cs386.NAUToDo:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout com.cs386.NAUToDo:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout com.cs386.NAUToDo:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.cs386.NAUToDo:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_showTitle com.cs386.NAUToDo:showTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.cs386.NAUToDo:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -4688,47 +4688,47 @@ containing a value of this type.
         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:buttonPanelSideLayout
+          @attr name com.cs386.NAUToDo:buttonPanelSideLayout
         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:listItemLayout
+          @attr name com.cs386.NAUToDo:listItemLayout
         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:listLayout
+          @attr name com.cs386.NAUToDo:listLayout
         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:multiChoiceItemLayout
+          @attr name com.cs386.NAUToDo:multiChoiceItemLayout
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#showTitle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#showTitle}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
@@ -4738,17 +4738,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:showTitle
+          @attr name com.cs386.NAUToDo:showTitle
         */
         public static final int AlertDialog_showTitle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:singleChoiceItemLayout
+          @attr name com.cs386.NAUToDo:singleChoiceItemLayout
         */
         public static final int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppBarLayout.
@@ -4758,8 +4758,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_elevation com.cs399.i_buy_3:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_expanded com.cs399.i_buy_3:expanded}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_elevation com.cs386.NAUToDo:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_expanded com.cs386.NAUToDo:expanded}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_android_background
            @see #AppBarLayout_elevation
@@ -4775,7 +4775,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppBarLayout_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#elevation}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -4787,11 +4787,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:elevation
+          @attr name com.cs386.NAUToDo:elevation
         */
         public static final int AppBarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#expanded}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#expanded}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -4801,7 +4801,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:expanded
+          @attr name com.cs386.NAUToDo:expanded
         */
         public static final int AppBarLayout_expanded = 2;
         /** Attributes that can be used with a AppBarLayoutStates.
@@ -4810,8 +4810,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.cs399.i_buy_3:state_collapsed}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.cs399.i_buy_3:state_collapsible}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.cs386.NAUToDo:state_collapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.cs386.NAUToDo:state_collapsible}</code></td><td></td></tr>
            </table>
            @see #AppBarLayoutStates_state_collapsed
            @see #AppBarLayoutStates_state_collapsible
@@ -4820,7 +4820,7 @@ containing a value of this type.
             0x7f010054, 0x7f010055
         };
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#state_collapsed}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#state_collapsed}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -4830,11 +4830,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:state_collapsed
+          @attr name com.cs386.NAUToDo:state_collapsed
         */
         public static final int AppBarLayoutStates_state_collapsed = 0;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#state_collapsible}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#state_collapsible}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -4844,7 +4844,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:state_collapsible
+          @attr name com.cs386.NAUToDo:state_collapsible
         */
         public static final int AppBarLayoutStates_state_collapsible = 1;
         /** Attributes that can be used with a AppBarLayout_Layout.
@@ -4853,8 +4853,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.cs399.i_buy_3:layout_scrollFlags}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.cs399.i_buy_3:layout_scrollInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.cs386.NAUToDo:layout_scrollFlags}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.cs386.NAUToDo:layout_scrollInterpolator}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_Layout_layout_scrollFlags
            @see #AppBarLayout_Layout_layout_scrollInterpolator
@@ -4863,7 +4863,7 @@ containing a value of this type.
             0x7f010056, 0x7f010057
         };
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_scrollFlags}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_scrollFlags}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
@@ -4879,17 +4879,17 @@ containing a value of this type.
 <tr><td><code>enterAlwaysCollapsed</code></td><td>0x8</td><td></td></tr>
 <tr><td><code>snap</code></td><td>0x10</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:layout_scrollFlags
+          @attr name com.cs386.NAUToDo:layout_scrollFlags
         */
         public static final int AppBarLayout_Layout_layout_scrollFlags = 0;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_scrollInterpolator}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_scrollInterpolator}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:layout_scrollInterpolator
+          @attr name com.cs386.NAUToDo:layout_scrollInterpolator
         */
         public static final int AppBarLayout_Layout_layout_scrollInterpolator = 1;
         /** Attributes that can be used with a AppCompatImageView.
@@ -4899,7 +4899,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_srcCompat com.cs399.i_buy_3:srcCompat}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_srcCompat com.cs386.NAUToDo:srcCompat}</code></td><td></td></tr>
            </table>
            @see #AppCompatImageView_android_src
            @see #AppCompatImageView_srcCompat
@@ -4914,13 +4914,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatImageView_android_src = 0;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#srcCompat}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#srcCompat}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:srcCompat
+          @attr name com.cs386.NAUToDo:srcCompat
         */
         public static final int AppCompatImageView_srcCompat = 1;
         /** Attributes that can be used with a AppCompatSeekBar.
@@ -4930,9 +4930,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMark com.cs399.i_buy_3:tickMark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.cs399.i_buy_3:tickMarkTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.cs399.i_buy_3:tickMarkTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMark com.cs386.NAUToDo:tickMark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.cs386.NAUToDo:tickMarkTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.cs386.NAUToDo:tickMarkTintMode}</code></td><td></td></tr>
            </table>
            @see #AppCompatSeekBar_android_thumb
            @see #AppCompatSeekBar_tickMark
@@ -4949,17 +4949,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatSeekBar_android_thumb = 0;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#tickMark}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#tickMark}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:tickMark
+          @attr name com.cs386.NAUToDo:tickMark
         */
         public static final int AppCompatSeekBar_tickMark = 1;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#tickMarkTint}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#tickMarkTint}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -4970,11 +4970,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:tickMarkTint
+          @attr name com.cs386.NAUToDo:tickMarkTint
         */
         public static final int AppCompatSeekBar_tickMarkTint = 2;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#tickMarkTintMode}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#tickMarkTintMode}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -4991,7 +4991,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:tickMarkTintMode
+          @attr name com.cs386.NAUToDo:tickMarkTintMode
         */
         public static final int AppCompatSeekBar_tickMarkTintMode = 3;
         /** Attributes that can be used with a AppCompatTextHelper.
@@ -5069,7 +5069,7 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.cs399.i_buy_3:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.cs386.NAUToDo:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_textAllCaps
@@ -5084,14 +5084,14 @@ containing a value of this type.
         */
         public static final int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.cs399.i_buy_3:textAllCaps
+          @attr name com.cs386.NAUToDo:textAllCaps
         */
         public static final int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a AppCompatTheme.
@@ -5100,121 +5100,121 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.cs399.i_buy_3:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.cs399.i_buy_3:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.cs399.i_buy_3:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSize com.cs399.i_buy_3:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.cs399.i_buy_3:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.cs399.i_buy_3:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.cs399.i_buy_3:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.cs399.i_buy_3:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.cs399.i_buy_3:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.cs399.i_buy_3:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.cs399.i_buy_3:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.cs399.i_buy_3:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.cs399.i_buy_3:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.cs399.i_buy_3:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.cs399.i_buy_3:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.cs399.i_buy_3:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.cs399.i_buy_3:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.cs399.i_buy_3:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.cs399.i_buy_3:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.cs399.i_buy_3:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.cs399.i_buy_3:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.cs399.i_buy_3:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.cs399.i_buy_3:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.cs399.i_buy_3:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.cs399.i_buy_3:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.cs399.i_buy_3:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.cs399.i_buy_3:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.cs399.i_buy_3:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.cs399.i_buy_3:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.cs399.i_buy_3:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.cs399.i_buy_3:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.cs399.i_buy_3:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.cs399.i_buy_3:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.cs399.i_buy_3:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.cs399.i_buy_3:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.cs386.NAUToDo:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.cs386.NAUToDo:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.cs386.NAUToDo:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSize com.cs386.NAUToDo:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.cs386.NAUToDo:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.cs386.NAUToDo:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.cs386.NAUToDo:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.cs386.NAUToDo:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.cs386.NAUToDo:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.cs386.NAUToDo:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.cs386.NAUToDo:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.cs386.NAUToDo:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.cs386.NAUToDo:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.cs386.NAUToDo:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.cs386.NAUToDo:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.cs386.NAUToDo:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.cs386.NAUToDo:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.cs386.NAUToDo:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.cs386.NAUToDo:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.cs386.NAUToDo:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.cs386.NAUToDo:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.cs386.NAUToDo:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.cs386.NAUToDo:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.cs386.NAUToDo:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.cs386.NAUToDo:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.cs386.NAUToDo:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.cs386.NAUToDo:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.cs386.NAUToDo:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.cs386.NAUToDo:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.cs386.NAUToDo:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.cs386.NAUToDo:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.cs386.NAUToDo:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.cs386.NAUToDo:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.cs386.NAUToDo:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.cs386.NAUToDo:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.cs399.i_buy_3:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.cs399.i_buy_3:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.cs399.i_buy_3:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.cs399.i_buy_3:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.cs399.i_buy_3:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.cs399.i_buy_3:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.cs399.i_buy_3:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyle com.cs399.i_buy_3:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.cs399.i_buy_3:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.cs399.i_buy_3:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.cs399.i_buy_3:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorAccent com.cs399.i_buy_3:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.cs399.i_buy_3:colorBackgroundFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.cs399.i_buy_3:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.cs399.i_buy_3:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.cs399.i_buy_3:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.cs399.i_buy_3:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimary com.cs399.i_buy_3:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.cs399.i_buy_3:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.cs399.i_buy_3:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_controlBackground com.cs399.i_buy_3:controlBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.cs399.i_buy_3:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogTheme com.cs399.i_buy_3:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.cs399.i_buy_3:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerVertical com.cs399.i_buy_3:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.cs399.i_buy_3:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.cs399.i_buy_3:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextBackground com.cs399.i_buy_3:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextColor com.cs399.i_buy_3:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextStyle com.cs399.i_buy_3:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.cs399.i_buy_3:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.cs399.i_buy_3:imageButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.cs399.i_buy_3:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.cs399.i_buy_3:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.cs399.i_buy_3:listMenuViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.cs399.i_buy_3:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.cs399.i_buy_3:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.cs399.i_buy_3:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.cs399.i_buy_3:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.cs399.i_buy_3:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.cs399.i_buy_3:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelBackground com.cs399.i_buy_3:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.cs399.i_buy_3:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.cs399.i_buy_3:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.cs399.i_buy_3:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.cs399.i_buy_3:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.cs399.i_buy_3:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.cs399.i_buy_3:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.cs399.i_buy_3:ratingBarStyleIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.cs399.i_buy_3:ratingBarStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.cs399.i_buy_3:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.cs399.i_buy_3:seekBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.cs399.i_buy_3:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.cs399.i_buy_3:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.cs399.i_buy_3:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.cs399.i_buy_3:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_switchStyle com.cs399.i_buy_3:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.cs399.i_buy_3:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.cs399.i_buy_3:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.cs399.i_buy_3:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.cs399.i_buy_3:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.cs399.i_buy_3:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.cs399.i_buy_3:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.cs399.i_buy_3:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.cs399.i_buy_3:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.cs399.i_buy_3:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.cs399.i_buy_3:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.cs399.i_buy_3:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBar com.cs399.i_buy_3:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.cs399.i_buy_3:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.cs399.i_buy_3:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.cs399.i_buy_3:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.cs399.i_buy_3:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.cs399.i_buy_3:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.cs399.i_buy_3:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.cs399.i_buy_3:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.cs399.i_buy_3:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.cs399.i_buy_3:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.cs386.NAUToDo:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.cs386.NAUToDo:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.cs386.NAUToDo:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.cs386.NAUToDo:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.cs386.NAUToDo:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.cs386.NAUToDo:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.cs386.NAUToDo:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyle com.cs386.NAUToDo:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.cs386.NAUToDo:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.cs386.NAUToDo:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.cs386.NAUToDo:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorAccent com.cs386.NAUToDo:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.cs386.NAUToDo:colorBackgroundFloating}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.cs386.NAUToDo:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.cs386.NAUToDo:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.cs386.NAUToDo:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.cs386.NAUToDo:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimary com.cs386.NAUToDo:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.cs386.NAUToDo:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.cs386.NAUToDo:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_controlBackground com.cs386.NAUToDo:controlBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.cs386.NAUToDo:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogTheme com.cs386.NAUToDo:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.cs386.NAUToDo:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerVertical com.cs386.NAUToDo:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.cs386.NAUToDo:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.cs386.NAUToDo:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextBackground com.cs386.NAUToDo:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextColor com.cs386.NAUToDo:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextStyle com.cs386.NAUToDo:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.cs386.NAUToDo:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.cs386.NAUToDo:imageButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.cs386.NAUToDo:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.cs386.NAUToDo:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.cs386.NAUToDo:listMenuViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.cs386.NAUToDo:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.cs386.NAUToDo:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.cs386.NAUToDo:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.cs386.NAUToDo:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.cs386.NAUToDo:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.cs386.NAUToDo:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelBackground com.cs386.NAUToDo:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.cs386.NAUToDo:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.cs386.NAUToDo:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.cs386.NAUToDo:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.cs386.NAUToDo:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.cs386.NAUToDo:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.cs386.NAUToDo:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.cs386.NAUToDo:ratingBarStyleIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.cs386.NAUToDo:ratingBarStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.cs386.NAUToDo:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.cs386.NAUToDo:seekBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.cs386.NAUToDo:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.cs386.NAUToDo:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.cs386.NAUToDo:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.cs386.NAUToDo:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_switchStyle com.cs386.NAUToDo:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.cs386.NAUToDo:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.cs386.NAUToDo:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.cs386.NAUToDo:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.cs386.NAUToDo:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.cs386.NAUToDo:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.cs386.NAUToDo:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.cs386.NAUToDo:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.cs386.NAUToDo:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.cs386.NAUToDo:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.cs386.NAUToDo:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.cs386.NAUToDo:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBar com.cs386.NAUToDo:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.cs386.NAUToDo:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.cs386.NAUToDo:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.cs386.NAUToDo:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.cs386.NAUToDo:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.cs386.NAUToDo:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.cs386.NAUToDo:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.cs386.NAUToDo:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.cs386.NAUToDo:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.cs386.NAUToDo:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #AppCompatTheme_actionBarDivider
            @see #AppCompatTheme_actionBarItemBackground
@@ -5364,37 +5364,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100cb, 0x7f0100cc, 0x7f0100cd
         };
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:actionBarDivider
+          @attr name com.cs386.NAUToDo:actionBarDivider
         */
         public static final int AppCompatTheme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:actionBarItemBackground
+          @attr name com.cs386.NAUToDo:actionBarItemBackground
         */
         public static final int AppCompatTheme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:actionBarPopupTheme
+          @attr name com.cs386.NAUToDo:actionBarPopupTheme
         */
         public static final int AppCompatTheme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#actionBarSize}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5414,111 +5414,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:actionBarSize
+          @attr name com.cs386.NAUToDo:actionBarSize
         */
         public static final int AppCompatTheme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:actionBarSplitStyle
+          @attr name com.cs386.NAUToDo:actionBarSplitStyle
         */
         public static final int AppCompatTheme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:actionBarStyle
+          @attr name com.cs386.NAUToDo:actionBarStyle
         */
         public static final int AppCompatTheme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:actionBarTabBarStyle
+          @attr name com.cs386.NAUToDo:actionBarTabBarStyle
         */
         public static final int AppCompatTheme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:actionBarTabStyle
+          @attr name com.cs386.NAUToDo:actionBarTabStyle
         */
         public static final int AppCompatTheme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:actionBarTabTextStyle
+          @attr name com.cs386.NAUToDo:actionBarTabTextStyle
         */
         public static final int AppCompatTheme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:actionBarTheme
+          @attr name com.cs386.NAUToDo:actionBarTheme
         */
         public static final int AppCompatTheme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:actionBarWidgetTheme
+          @attr name com.cs386.NAUToDo:actionBarWidgetTheme
         */
         public static final int AppCompatTheme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:actionButtonStyle
+          @attr name com.cs386.NAUToDo:actionButtonStyle
         */
         public static final int AppCompatTheme_actionButtonStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:actionDropDownStyle
+          @attr name com.cs386.NAUToDo:actionDropDownStyle
         */
         public static final int AppCompatTheme_actionDropDownStyle = 46;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:actionMenuTextAppearance
+          @attr name com.cs386.NAUToDo:actionMenuTextAppearance
         */
         public static final int AppCompatTheme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5526,181 +5526,181 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.cs399.i_buy_3:actionMenuTextColor
+          @attr name com.cs386.NAUToDo:actionMenuTextColor
         */
         public static final int AppCompatTheme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:actionModeBackground
+          @attr name com.cs386.NAUToDo:actionModeBackground
         */
         public static final int AppCompatTheme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:actionModeCloseButtonStyle
+          @attr name com.cs386.NAUToDo:actionModeCloseButtonStyle
         */
         public static final int AppCompatTheme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:actionModeCloseDrawable
+          @attr name com.cs386.NAUToDo:actionModeCloseDrawable
         */
         public static final int AppCompatTheme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:actionModeCopyDrawable
+          @attr name com.cs386.NAUToDo:actionModeCopyDrawable
         */
         public static final int AppCompatTheme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:actionModeCutDrawable
+          @attr name com.cs386.NAUToDo:actionModeCutDrawable
         */
         public static final int AppCompatTheme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:actionModeFindDrawable
+          @attr name com.cs386.NAUToDo:actionModeFindDrawable
         */
         public static final int AppCompatTheme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:actionModePasteDrawable
+          @attr name com.cs386.NAUToDo:actionModePasteDrawable
         */
         public static final int AppCompatTheme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:actionModePopupWindowStyle
+          @attr name com.cs386.NAUToDo:actionModePopupWindowStyle
         */
         public static final int AppCompatTheme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:actionModeSelectAllDrawable
+          @attr name com.cs386.NAUToDo:actionModeSelectAllDrawable
         */
         public static final int AppCompatTheme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:actionModeShareDrawable
+          @attr name com.cs386.NAUToDo:actionModeShareDrawable
         */
         public static final int AppCompatTheme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:actionModeSplitBackground
+          @attr name com.cs386.NAUToDo:actionModeSplitBackground
         */
         public static final int AppCompatTheme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:actionModeStyle
+          @attr name com.cs386.NAUToDo:actionModeStyle
         */
         public static final int AppCompatTheme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:actionModeWebSearchDrawable
+          @attr name com.cs386.NAUToDo:actionModeWebSearchDrawable
         */
         public static final int AppCompatTheme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:actionOverflowButtonStyle
+          @attr name com.cs386.NAUToDo:actionOverflowButtonStyle
         */
         public static final int AppCompatTheme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:actionOverflowMenuStyle
+          @attr name com.cs386.NAUToDo:actionOverflowMenuStyle
         */
         public static final int AppCompatTheme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:activityChooserViewStyle
+          @attr name com.cs386.NAUToDo:activityChooserViewStyle
         */
         public static final int AppCompatTheme_activityChooserViewStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:alertDialogButtonGroupStyle
+          @attr name com.cs386.NAUToDo:alertDialogButtonGroupStyle
         */
         public static final int AppCompatTheme_alertDialogButtonGroupStyle = 94;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5710,27 +5710,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:alertDialogCenterButtons
+          @attr name com.cs386.NAUToDo:alertDialogCenterButtons
         */
         public static final int AppCompatTheme_alertDialogCenterButtons = 95;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:alertDialogStyle
+          @attr name com.cs386.NAUToDo:alertDialogStyle
         */
         public static final int AppCompatTheme_alertDialogStyle = 93;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:alertDialogTheme
+          @attr name com.cs386.NAUToDo:alertDialogTheme
         */
         public static final int AppCompatTheme_alertDialogTheme = 96;
         /**
@@ -5746,117 +5746,117 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatTheme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:autoCompleteTextViewStyle
+          @attr name com.cs386.NAUToDo:autoCompleteTextViewStyle
         */
         public static final int AppCompatTheme_autoCompleteTextViewStyle = 101;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:borderlessButtonStyle
+          @attr name com.cs386.NAUToDo:borderlessButtonStyle
         */
         public static final int AppCompatTheme_borderlessButtonStyle = 55;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:buttonBarButtonStyle
+          @attr name com.cs386.NAUToDo:buttonBarButtonStyle
         */
         public static final int AppCompatTheme_buttonBarButtonStyle = 52;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:buttonBarNegativeButtonStyle
+          @attr name com.cs386.NAUToDo:buttonBarNegativeButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNegativeButtonStyle = 99;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:buttonBarNeutralButtonStyle
+          @attr name com.cs386.NAUToDo:buttonBarNeutralButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNeutralButtonStyle = 100;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:buttonBarPositiveButtonStyle
+          @attr name com.cs386.NAUToDo:buttonBarPositiveButtonStyle
         */
         public static final int AppCompatTheme_buttonBarPositiveButtonStyle = 98;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:buttonBarStyle
+          @attr name com.cs386.NAUToDo:buttonBarStyle
         */
         public static final int AppCompatTheme_buttonBarStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#buttonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:buttonStyle
+          @attr name com.cs386.NAUToDo:buttonStyle
         */
         public static final int AppCompatTheme_buttonStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:buttonStyleSmall
+          @attr name com.cs386.NAUToDo:buttonStyleSmall
         */
         public static final int AppCompatTheme_buttonStyleSmall = 103;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:checkboxStyle
+          @attr name com.cs386.NAUToDo:checkboxStyle
         */
         public static final int AppCompatTheme_checkboxStyle = 104;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:checkedTextViewStyle
+          @attr name com.cs386.NAUToDo:checkedTextViewStyle
         */
         public static final int AppCompatTheme_checkedTextViewStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#colorAccent}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5867,11 +5867,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:colorAccent
+          @attr name com.cs386.NAUToDo:colorAccent
         */
         public static final int AppCompatTheme_colorAccent = 85;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#colorBackgroundFloating}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#colorBackgroundFloating}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5882,11 +5882,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:colorBackgroundFloating
+          @attr name com.cs386.NAUToDo:colorBackgroundFloating
         */
         public static final int AppCompatTheme_colorBackgroundFloating = 92;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5897,11 +5897,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:colorButtonNormal
+          @attr name com.cs386.NAUToDo:colorButtonNormal
         */
         public static final int AppCompatTheme_colorButtonNormal = 89;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5912,11 +5912,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:colorControlActivated
+          @attr name com.cs386.NAUToDo:colorControlActivated
         */
         public static final int AppCompatTheme_colorControlActivated = 87;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5927,11 +5927,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:colorControlHighlight
+          @attr name com.cs386.NAUToDo:colorControlHighlight
         */
         public static final int AppCompatTheme_colorControlHighlight = 88;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5942,11 +5942,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:colorControlNormal
+          @attr name com.cs386.NAUToDo:colorControlNormal
         */
         public static final int AppCompatTheme_colorControlNormal = 86;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#colorPrimary}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5957,11 +5957,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:colorPrimary
+          @attr name com.cs386.NAUToDo:colorPrimary
         */
         public static final int AppCompatTheme_colorPrimary = 83;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5972,11 +5972,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:colorPrimaryDark
+          @attr name com.cs386.NAUToDo:colorPrimaryDark
         */
         public static final int AppCompatTheme_colorPrimaryDark = 84;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5987,21 +5987,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:colorSwitchThumbNormal
+          @attr name com.cs386.NAUToDo:colorSwitchThumbNormal
         */
         public static final int AppCompatTheme_colorSwitchThumbNormal = 90;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#controlBackground}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#controlBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:controlBackground
+          @attr name com.cs386.NAUToDo:controlBackground
         */
         public static final int AppCompatTheme_controlBackground = 91;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6013,51 +6013,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:dialogPreferredPadding
+          @attr name com.cs386.NAUToDo:dialogPreferredPadding
         */
         public static final int AppCompatTheme_dialogPreferredPadding = 44;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#dialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:dialogTheme
+          @attr name com.cs386.NAUToDo:dialogTheme
         */
         public static final int AppCompatTheme_dialogTheme = 43;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:dividerHorizontal
+          @attr name com.cs386.NAUToDo:dividerHorizontal
         */
         public static final int AppCompatTheme_dividerHorizontal = 57;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#dividerVertical}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:dividerVertical
+          @attr name com.cs386.NAUToDo:dividerVertical
         */
         public static final int AppCompatTheme_dividerVertical = 56;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:dropDownListViewStyle
+          @attr name com.cs386.NAUToDo:dropDownListViewStyle
         */
         public static final int AppCompatTheme_dropDownListViewStyle = 75;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6069,21 +6069,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:dropdownListPreferredItemHeight
+          @attr name com.cs386.NAUToDo:dropdownListPreferredItemHeight
         */
         public static final int AppCompatTheme_dropdownListPreferredItemHeight = 47;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#editTextBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:editTextBackground
+          @attr name com.cs386.NAUToDo:editTextBackground
         */
         public static final int AppCompatTheme_editTextBackground = 64;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#editTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6091,81 +6091,81 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.cs399.i_buy_3:editTextColor
+          @attr name com.cs386.NAUToDo:editTextColor
         */
         public static final int AppCompatTheme_editTextColor = 63;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#editTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:editTextStyle
+          @attr name com.cs386.NAUToDo:editTextStyle
         */
         public static final int AppCompatTheme_editTextStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:homeAsUpIndicator
+          @attr name com.cs386.NAUToDo:homeAsUpIndicator
         */
         public static final int AppCompatTheme_homeAsUpIndicator = 49;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#imageButtonStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#imageButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:imageButtonStyle
+          @attr name com.cs386.NAUToDo:imageButtonStyle
         */
         public static final int AppCompatTheme_imageButtonStyle = 65;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:listChoiceBackgroundIndicator
+          @attr name com.cs386.NAUToDo:listChoiceBackgroundIndicator
         */
         public static final int AppCompatTheme_listChoiceBackgroundIndicator = 82;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:listDividerAlertDialog
+          @attr name com.cs386.NAUToDo:listDividerAlertDialog
         */
         public static final int AppCompatTheme_listDividerAlertDialog = 45;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#listMenuViewStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#listMenuViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:listMenuViewStyle
+          @attr name com.cs386.NAUToDo:listMenuViewStyle
         */
         public static final int AppCompatTheme_listMenuViewStyle = 114;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:listPopupWindowStyle
+          @attr name com.cs386.NAUToDo:listPopupWindowStyle
         */
         public static final int AppCompatTheme_listPopupWindowStyle = 76;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6177,11 +6177,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:listPreferredItemHeight
+          @attr name com.cs386.NAUToDo:listPreferredItemHeight
         */
         public static final int AppCompatTheme_listPreferredItemHeight = 70;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6193,11 +6193,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:listPreferredItemHeightLarge
+          @attr name com.cs386.NAUToDo:listPreferredItemHeightLarge
         */
         public static final int AppCompatTheme_listPreferredItemHeightLarge = 72;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6209,11 +6209,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:listPreferredItemHeightSmall
+          @attr name com.cs386.NAUToDo:listPreferredItemHeightSmall
         */
         public static final int AppCompatTheme_listPreferredItemHeightSmall = 71;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6225,11 +6225,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:listPreferredItemPaddingLeft
+          @attr name com.cs386.NAUToDo:listPreferredItemPaddingLeft
         */
         public static final int AppCompatTheme_listPreferredItemPaddingLeft = 73;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6241,31 +6241,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:listPreferredItemPaddingRight
+          @attr name com.cs386.NAUToDo:listPreferredItemPaddingRight
         */
         public static final int AppCompatTheme_listPreferredItemPaddingRight = 74;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#panelBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:panelBackground
+          @attr name com.cs386.NAUToDo:panelBackground
         */
         public static final int AppCompatTheme_panelBackground = 79;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:panelMenuListTheme
+          @attr name com.cs386.NAUToDo:panelMenuListTheme
         */
         public static final int AppCompatTheme_panelMenuListTheme = 81;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6277,211 +6277,211 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:panelMenuListWidth
+          @attr name com.cs386.NAUToDo:panelMenuListWidth
         */
         public static final int AppCompatTheme_panelMenuListWidth = 80;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:popupMenuStyle
+          @attr name com.cs386.NAUToDo:popupMenuStyle
         */
         public static final int AppCompatTheme_popupMenuStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:popupWindowStyle
+          @attr name com.cs386.NAUToDo:popupWindowStyle
         */
         public static final int AppCompatTheme_popupWindowStyle = 62;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:radioButtonStyle
+          @attr name com.cs386.NAUToDo:radioButtonStyle
         */
         public static final int AppCompatTheme_radioButtonStyle = 107;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:ratingBarStyle
+          @attr name com.cs386.NAUToDo:ratingBarStyle
         */
         public static final int AppCompatTheme_ratingBarStyle = 108;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#ratingBarStyleIndicator}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#ratingBarStyleIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:ratingBarStyleIndicator
+          @attr name com.cs386.NAUToDo:ratingBarStyleIndicator
         */
         public static final int AppCompatTheme_ratingBarStyleIndicator = 109;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#ratingBarStyleSmall}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#ratingBarStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:ratingBarStyleSmall
+          @attr name com.cs386.NAUToDo:ratingBarStyleSmall
         */
         public static final int AppCompatTheme_ratingBarStyleSmall = 110;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:searchViewStyle
+          @attr name com.cs386.NAUToDo:searchViewStyle
         */
         public static final int AppCompatTheme_searchViewStyle = 69;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#seekBarStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#seekBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:seekBarStyle
+          @attr name com.cs386.NAUToDo:seekBarStyle
         */
         public static final int AppCompatTheme_seekBarStyle = 111;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:selectableItemBackground
+          @attr name com.cs386.NAUToDo:selectableItemBackground
         */
         public static final int AppCompatTheme_selectableItemBackground = 53;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:selectableItemBackgroundBorderless
+          @attr name com.cs386.NAUToDo:selectableItemBackgroundBorderless
         */
         public static final int AppCompatTheme_selectableItemBackgroundBorderless = 54;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:spinnerDropDownItemStyle
+          @attr name com.cs386.NAUToDo:spinnerDropDownItemStyle
         */
         public static final int AppCompatTheme_spinnerDropDownItemStyle = 48;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:spinnerStyle
+          @attr name com.cs386.NAUToDo:spinnerStyle
         */
         public static final int AppCompatTheme_spinnerStyle = 112;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#switchStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:switchStyle
+          @attr name com.cs386.NAUToDo:switchStyle
         */
         public static final int AppCompatTheme_switchStyle = 113;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:textAppearanceLargePopupMenu
+          @attr name com.cs386.NAUToDo:textAppearanceLargePopupMenu
         */
         public static final int AppCompatTheme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:textAppearanceListItem
+          @attr name com.cs386.NAUToDo:textAppearanceListItem
         */
         public static final int AppCompatTheme_textAppearanceListItem = 77;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:textAppearanceListItemSmall
+          @attr name com.cs386.NAUToDo:textAppearanceListItemSmall
         */
         public static final int AppCompatTheme_textAppearanceListItemSmall = 78;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#textAppearancePopupMenuHeader}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#textAppearancePopupMenuHeader}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:textAppearancePopupMenuHeader
+          @attr name com.cs386.NAUToDo:textAppearancePopupMenuHeader
         */
         public static final int AppCompatTheme_textAppearancePopupMenuHeader = 42;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:textAppearanceSearchResultSubtitle
+          @attr name com.cs386.NAUToDo:textAppearanceSearchResultSubtitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultSubtitle = 67;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:textAppearanceSearchResultTitle
+          @attr name com.cs386.NAUToDo:textAppearanceSearchResultTitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultTitle = 66;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:textAppearanceSmallPopupMenu
+          @attr name com.cs386.NAUToDo:textAppearanceSmallPopupMenu
         */
         public static final int AppCompatTheme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6489,11 +6489,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.cs399.i_buy_3:textColorAlertDialogListItem
+          @attr name com.cs386.NAUToDo:textColorAlertDialogListItem
         */
         public static final int AppCompatTheme_textColorAlertDialogListItem = 97;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6501,31 +6501,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.cs399.i_buy_3:textColorSearchUrl
+          @attr name com.cs386.NAUToDo:textColorSearchUrl
         */
         public static final int AppCompatTheme_textColorSearchUrl = 68;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:toolbarNavigationButtonStyle
+          @attr name com.cs386.NAUToDo:toolbarNavigationButtonStyle
         */
         public static final int AppCompatTheme_toolbarNavigationButtonStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:toolbarStyle
+          @attr name com.cs386.NAUToDo:toolbarStyle
         */
         public static final int AppCompatTheme_toolbarStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#windowActionBar}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6535,11 +6535,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:windowActionBar
+          @attr name com.cs386.NAUToDo:windowActionBar
         */
         public static final int AppCompatTheme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6549,11 +6549,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:windowActionBarOverlay
+          @attr name com.cs386.NAUToDo:windowActionBarOverlay
         */
         public static final int AppCompatTheme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6563,11 +6563,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:windowActionModeOverlay
+          @attr name com.cs386.NAUToDo:windowActionModeOverlay
         */
         public static final int AppCompatTheme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6582,11 +6582,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:windowFixedHeightMajor
+          @attr name com.cs386.NAUToDo:windowFixedHeightMajor
         */
         public static final int AppCompatTheme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6601,11 +6601,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:windowFixedHeightMinor
+          @attr name com.cs386.NAUToDo:windowFixedHeightMinor
         */
         public static final int AppCompatTheme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6620,11 +6620,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:windowFixedWidthMajor
+          @attr name com.cs386.NAUToDo:windowFixedWidthMajor
         */
         public static final int AppCompatTheme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6639,11 +6639,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:windowFixedWidthMinor
+          @attr name com.cs386.NAUToDo:windowFixedWidthMinor
         */
         public static final int AppCompatTheme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6658,11 +6658,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:windowMinWidthMajor
+          @attr name com.cs386.NAUToDo:windowMinWidthMajor
         */
         public static final int AppCompatTheme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6677,11 +6677,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:windowMinWidthMinor
+          @attr name com.cs386.NAUToDo:windowMinWidthMinor
         */
         public static final int AppCompatTheme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6691,7 +6691,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:windowNoTitle
+          @attr name com.cs386.NAUToDo:windowNoTitle
         */
         public static final int AppCompatTheme_windowNoTitle = 3;
         /** Attributes that can be used with a BottomNavigationView.
@@ -6700,11 +6700,11 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomNavigationView_elevation com.cs399.i_buy_3:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemBackground com.cs399.i_buy_3:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemIconTint com.cs399.i_buy_3:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemTextColor com.cs399.i_buy_3:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_menu com.cs399.i_buy_3:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_elevation com.cs386.NAUToDo:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemBackground com.cs386.NAUToDo:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemIconTint com.cs386.NAUToDo:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemTextColor com.cs386.NAUToDo:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_menu com.cs386.NAUToDo:menu}</code></td><td></td></tr>
            </table>
            @see #BottomNavigationView_elevation
            @see #BottomNavigationView_itemBackground
@@ -6717,7 +6717,7 @@ containing a value of this type.
             0x7f010117
         };
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#elevation}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6729,21 +6729,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:elevation
+          @attr name com.cs386.NAUToDo:elevation
         */
         public static final int BottomNavigationView_elevation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#itemBackground}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:itemBackground
+          @attr name com.cs386.NAUToDo:itemBackground
         */
         public static final int BottomNavigationView_itemBackground = 4;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#itemIconTint}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6754,11 +6754,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:itemIconTint
+          @attr name com.cs386.NAUToDo:itemIconTint
         */
         public static final int BottomNavigationView_itemIconTint = 2;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#itemTextColor}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6769,17 +6769,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:itemTextColor
+          @attr name com.cs386.NAUToDo:itemTextColor
         */
         public static final int BottomNavigationView_itemTextColor = 3;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#menu}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#menu}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:menu
+          @attr name com.cs386.NAUToDo:menu
         */
         public static final int BottomNavigationView_menu = 1;
         /** Attributes that can be used with a BottomSheetBehavior_Layout.
@@ -6788,9 +6788,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.cs399.i_buy_3:behavior_hideable}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.cs399.i_buy_3:behavior_peekHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.cs399.i_buy_3:behavior_skipCollapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.cs386.NAUToDo:behavior_hideable}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.cs386.NAUToDo:behavior_peekHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.cs386.NAUToDo:behavior_skipCollapsed}</code></td><td></td></tr>
            </table>
            @see #BottomSheetBehavior_Layout_behavior_hideable
            @see #BottomSheetBehavior_Layout_behavior_peekHeight
@@ -6800,7 +6800,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100ce, 0x7f0100cf, 0x7f0100d0
         };
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#behavior_hideable}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#behavior_hideable}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6810,11 +6810,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:behavior_hideable
+          @attr name com.cs386.NAUToDo:behavior_hideable
         */
         public static final int BottomSheetBehavior_Layout_behavior_hideable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#behavior_peekHeight}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#behavior_peekHeight}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6834,11 +6834,11 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>auto</code></td><td>-1</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:behavior_peekHeight
+          @attr name com.cs386.NAUToDo:behavior_peekHeight
         */
         public static final int BottomSheetBehavior_Layout_behavior_peekHeight = 0;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#behavior_skipCollapsed}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#behavior_skipCollapsed}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6848,7 +6848,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:behavior_skipCollapsed
+          @attr name com.cs386.NAUToDo:behavior_skipCollapsed
         */
         public static final int BottomSheetBehavior_Layout_behavior_skipCollapsed = 2;
         /** Attributes that can be used with a ButtonBarLayout.
@@ -6857,7 +6857,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.cs399.i_buy_3:allowStacking}</code></td><td></td></tr>
+           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.cs386.NAUToDo:allowStacking}</code></td><td></td></tr>
            </table>
            @see #ButtonBarLayout_allowStacking
          */
@@ -6865,7 +6865,7 @@ containing a value of this type.
             0x7f0100d1
         };
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#allowStacking}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#allowStacking}
           attribute's value can be found in the {@link #ButtonBarLayout} array.
 
 
@@ -6875,7 +6875,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:allowStacking
+          @attr name com.cs386.NAUToDo:allowStacking
         */
         public static final int ButtonBarLayout_allowStacking = 0;
         /** Attributes that can be used with a CardView.
@@ -6886,17 +6886,17 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CardView_android_minHeight android:minHeight}</code></td><td></td></tr>
            <tr><td><code>{@link #CardView_android_minWidth android:minWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardBackgroundColor com.cs399.i_buy_3:cardBackgroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardCornerRadius com.cs399.i_buy_3:cardCornerRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardElevation com.cs399.i_buy_3:cardElevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardMaxElevation com.cs399.i_buy_3:cardMaxElevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.cs399.i_buy_3:cardPreventCornerOverlap}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardUseCompatPadding com.cs399.i_buy_3:cardUseCompatPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPadding com.cs399.i_buy_3:contentPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingBottom com.cs399.i_buy_3:contentPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingLeft com.cs399.i_buy_3:contentPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingRight com.cs399.i_buy_3:contentPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingTop com.cs399.i_buy_3:contentPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardBackgroundColor com.cs386.NAUToDo:cardBackgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardCornerRadius com.cs386.NAUToDo:cardCornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardElevation com.cs386.NAUToDo:cardElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardMaxElevation com.cs386.NAUToDo:cardMaxElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.cs386.NAUToDo:cardPreventCornerOverlap}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardUseCompatPadding com.cs386.NAUToDo:cardUseCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPadding com.cs386.NAUToDo:contentPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingBottom com.cs386.NAUToDo:contentPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingLeft com.cs386.NAUToDo:contentPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingRight com.cs386.NAUToDo:contentPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingTop com.cs386.NAUToDo:contentPaddingTop}</code></td><td></td></tr>
            </table>
            @see #CardView_android_minHeight
            @see #CardView_android_minWidth
@@ -6931,7 +6931,7 @@ containing a value of this type.
         */
         public static final int CardView_android_minWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#cardBackgroundColor}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#cardBackgroundColor}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6942,11 +6942,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:cardBackgroundColor
+          @attr name com.cs386.NAUToDo:cardBackgroundColor
         */
         public static final int CardView_cardBackgroundColor = 2;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#cardCornerRadius}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#cardCornerRadius}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6958,11 +6958,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:cardCornerRadius
+          @attr name com.cs386.NAUToDo:cardCornerRadius
         */
         public static final int CardView_cardCornerRadius = 3;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#cardElevation}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#cardElevation}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6974,11 +6974,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:cardElevation
+          @attr name com.cs386.NAUToDo:cardElevation
         */
         public static final int CardView_cardElevation = 4;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#cardMaxElevation}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#cardMaxElevation}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6990,11 +6990,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:cardMaxElevation
+          @attr name com.cs386.NAUToDo:cardMaxElevation
         */
         public static final int CardView_cardMaxElevation = 5;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#cardPreventCornerOverlap}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#cardPreventCornerOverlap}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -7004,11 +7004,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:cardPreventCornerOverlap
+          @attr name com.cs386.NAUToDo:cardPreventCornerOverlap
         */
         public static final int CardView_cardPreventCornerOverlap = 7;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#cardUseCompatPadding}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#cardUseCompatPadding}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -7018,11 +7018,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:cardUseCompatPadding
+          @attr name com.cs386.NAUToDo:cardUseCompatPadding
         */
         public static final int CardView_cardUseCompatPadding = 6;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#contentPadding}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#contentPadding}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -7034,11 +7034,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:contentPadding
+          @attr name com.cs386.NAUToDo:contentPadding
         */
         public static final int CardView_contentPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#contentPaddingBottom}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#contentPaddingBottom}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -7050,11 +7050,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:contentPaddingBottom
+          @attr name com.cs386.NAUToDo:contentPaddingBottom
         */
         public static final int CardView_contentPaddingBottom = 12;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#contentPaddingLeft}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#contentPaddingLeft}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -7066,11 +7066,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:contentPaddingLeft
+          @attr name com.cs386.NAUToDo:contentPaddingLeft
         */
         public static final int CardView_contentPaddingLeft = 9;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#contentPaddingRight}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#contentPaddingRight}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -7082,11 +7082,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:contentPaddingRight
+          @attr name com.cs386.NAUToDo:contentPaddingRight
         */
         public static final int CardView_contentPaddingRight = 10;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#contentPaddingTop}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#contentPaddingTop}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -7098,7 +7098,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:contentPaddingTop
+          @attr name com.cs386.NAUToDo:contentPaddingTop
         */
         public static final int CardView_contentPaddingTop = 11;
         /** Attributes that can be used with a CollapsingToolbarLayout.
@@ -7107,22 +7107,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.cs399.i_buy_3:collapsedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.cs399.i_buy_3:collapsedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.cs399.i_buy_3:contentScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.cs399.i_buy_3:expandedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.cs399.i_buy_3:expandedTitleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.cs399.i_buy_3:expandedTitleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.cs399.i_buy_3:expandedTitleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.cs399.i_buy_3:expandedTitleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.cs399.i_buy_3:expandedTitleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.cs399.i_buy_3:expandedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.cs399.i_buy_3:scrimAnimationDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.cs399.i_buy_3:scrimVisibleHeightTrigger}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.cs399.i_buy_3:statusBarScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_title com.cs399.i_buy_3:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.cs399.i_buy_3:titleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.cs399.i_buy_3:toolbarId}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.cs386.NAUToDo:collapsedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.cs386.NAUToDo:collapsedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.cs386.NAUToDo:contentScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.cs386.NAUToDo:expandedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.cs386.NAUToDo:expandedTitleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.cs386.NAUToDo:expandedTitleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.cs386.NAUToDo:expandedTitleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.cs386.NAUToDo:expandedTitleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.cs386.NAUToDo:expandedTitleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.cs386.NAUToDo:expandedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.cs386.NAUToDo:scrimAnimationDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.cs386.NAUToDo:scrimVisibleHeightTrigger}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.cs386.NAUToDo:statusBarScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_title com.cs386.NAUToDo:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.cs386.NAUToDo:titleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.cs386.NAUToDo:toolbarId}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_collapsedTitleGravity
            @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -7148,7 +7148,7 @@ containing a value of this type.
             0x7f0100e8, 0x7f0100e9, 0x7f0100ea, 0x7f0100eb
         };
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#collapsedTitleGravity}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#collapsedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7169,21 +7169,21 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:collapsedTitleGravity
+          @attr name com.cs386.NAUToDo:collapsedTitleGravity
         */
         public static final int CollapsingToolbarLayout_collapsedTitleGravity = 13;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#collapsedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#collapsedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:collapsedTitleTextAppearance
+          @attr name com.cs386.NAUToDo:collapsedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance = 7;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#contentScrim}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#contentScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7194,11 +7194,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:contentScrim
+          @attr name com.cs386.NAUToDo:contentScrim
         */
         public static final int CollapsingToolbarLayout_contentScrim = 8;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#expandedTitleGravity}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#expandedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7219,11 +7219,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:expandedTitleGravity
+          @attr name com.cs386.NAUToDo:expandedTitleGravity
         */
         public static final int CollapsingToolbarLayout_expandedTitleGravity = 14;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#expandedTitleMargin}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#expandedTitleMargin}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7235,11 +7235,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:expandedTitleMargin
+          @attr name com.cs386.NAUToDo:expandedTitleMargin
         */
         public static final int CollapsingToolbarLayout_expandedTitleMargin = 1;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#expandedTitleMarginBottom}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#expandedTitleMarginBottom}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7251,11 +7251,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:expandedTitleMarginBottom
+          @attr name com.cs386.NAUToDo:expandedTitleMarginBottom
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginBottom = 5;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#expandedTitleMarginEnd}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#expandedTitleMarginEnd}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7267,11 +7267,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:expandedTitleMarginEnd
+          @attr name com.cs386.NAUToDo:expandedTitleMarginEnd
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginEnd = 4;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#expandedTitleMarginStart}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#expandedTitleMarginStart}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7283,11 +7283,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:expandedTitleMarginStart
+          @attr name com.cs386.NAUToDo:expandedTitleMarginStart
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#expandedTitleMarginTop}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#expandedTitleMarginTop}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7299,21 +7299,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:expandedTitleMarginTop
+          @attr name com.cs386.NAUToDo:expandedTitleMarginTop
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginTop = 3;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#expandedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#expandedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:expandedTitleTextAppearance
+          @attr name com.cs386.NAUToDo:expandedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_expandedTitleTextAppearance = 6;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#scrimAnimationDuration}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#scrimAnimationDuration}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7323,11 +7323,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:scrimAnimationDuration
+          @attr name com.cs386.NAUToDo:scrimAnimationDuration
         */
         public static final int CollapsingToolbarLayout_scrimAnimationDuration = 12;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#scrimVisibleHeightTrigger}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#scrimVisibleHeightTrigger}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7339,11 +7339,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:scrimVisibleHeightTrigger
+          @attr name com.cs386.NAUToDo:scrimVisibleHeightTrigger
         */
         public static final int CollapsingToolbarLayout_scrimVisibleHeightTrigger = 11;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#statusBarScrim}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#statusBarScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7354,11 +7354,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:statusBarScrim
+          @attr name com.cs386.NAUToDo:statusBarScrim
         */
         public static final int CollapsingToolbarLayout_statusBarScrim = 9;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#title}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#title}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7368,11 +7368,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:title
+          @attr name com.cs386.NAUToDo:title
         */
         public static final int CollapsingToolbarLayout_title = 0;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#titleEnabled}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#titleEnabled}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7382,17 +7382,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:titleEnabled
+          @attr name com.cs386.NAUToDo:titleEnabled
         */
         public static final int CollapsingToolbarLayout_titleEnabled = 15;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#toolbarId}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#toolbarId}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:toolbarId
+          @attr name com.cs386.NAUToDo:toolbarId
         */
         public static final int CollapsingToolbarLayout_toolbarId = 10;
         /** Attributes that can be used with a CollapsingToolbarLayout_Layout.
@@ -7401,8 +7401,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.cs399.i_buy_3:layout_collapseMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.cs399.i_buy_3:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.cs386.NAUToDo:layout_collapseMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.cs386.NAUToDo:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_Layout_layout_collapseMode
            @see #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
@@ -7411,7 +7411,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100ec, 0x7f0100ed
         };
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_collapseMode}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_collapseMode}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -7425,11 +7425,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>pin</code></td><td>1</td><td></td></tr>
 <tr><td><code>parallax</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:layout_collapseMode
+          @attr name com.cs386.NAUToDo:layout_collapseMode
         */
         public static final int CollapsingToolbarLayout_Layout_layout_collapseMode = 0;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_collapseParallaxMultiplier}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_collapseParallaxMultiplier}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -7439,7 +7439,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_collapseParallaxMultiplier
+          @attr name com.cs386.NAUToDo:layout_collapseParallaxMultiplier
         */
         public static final int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = 1;
         /** Attributes that can be used with a ColorStateListItem.
@@ -7448,7 +7448,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ColorStateListItem_alpha com.cs399.i_buy_3:alpha}</code></td><td></td></tr>
+           <tr><td><code>{@link #ColorStateListItem_alpha com.cs386.NAUToDo:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
            </table>
@@ -7460,7 +7460,7 @@ containing a value of this type.
             0x010101a5, 0x0101031f, 0x7f0100ee
         };
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#alpha}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#alpha}
           attribute's value can be found in the {@link #ColorStateListItem} array.
 
 
@@ -7470,7 +7470,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:alpha
+          @attr name com.cs386.NAUToDo:alpha
         */
         public static final int ColorStateListItem_alpha = 2;
         /**
@@ -7492,8 +7492,8 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint com.cs399.i_buy_3:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode com.cs399.i_buy_3:buttonTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint com.cs386.NAUToDo:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode com.cs386.NAUToDo:buttonTintMode}</code></td><td></td></tr>
            </table>
            @see #CompoundButton_android_button
            @see #CompoundButton_buttonTint
@@ -7509,7 +7509,7 @@ containing a value of this type.
         */
         public static final int CompoundButton_android_button = 0;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#buttonTint}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -7520,11 +7520,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:buttonTint
+          @attr name com.cs386.NAUToDo:buttonTint
         */
         public static final int CompoundButton_buttonTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#buttonTintMode}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#buttonTintMode}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -7540,7 +7540,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:buttonTintMode
+          @attr name com.cs386.NAUToDo:buttonTintMode
         */
         public static final int CompoundButton_buttonTintMode = 2;
         /** Attributes that can be used with a ConstraintLayout_Layout.
@@ -7554,50 +7554,50 @@ containing a value of this type.
            <tr><td><code>{@link #ConstraintLayout_Layout_android_minHeight android:minHeight}</code></td><td></td></tr>
            <tr><td><code>{@link #ConstraintLayout_Layout_android_minWidth android:minWidth}</code></td><td></td></tr>
            <tr><td><code>{@link #ConstraintLayout_Layout_android_orientation android:orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_constraintSet com.cs399.i_buy_3:constraintSet}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_creator com.cs399.i_buy_3:layout_constraintBaseline_creator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf com.cs399.i_buy_3:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_creator com.cs399.i_buy_3:layout_constraintBottom_creator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toBottomOf com.cs399.i_buy_3:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toTopOf com.cs399.i_buy_3:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintDimensionRatio com.cs399.i_buy_3:layout_constraintDimensionRatio}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toEndOf com.cs399.i_buy_3:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toStartOf com.cs399.i_buy_3:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_begin com.cs399.i_buy_3:layout_constraintGuide_begin}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_end com.cs399.i_buy_3:layout_constraintGuide_end}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_percent com.cs399.i_buy_3:layout_constraintGuide_percent}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_default com.cs399.i_buy_3:layout_constraintHeight_default}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_max com.cs399.i_buy_3:layout_constraintHeight_max}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_min com.cs399.i_buy_3:layout_constraintHeight_min}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_bias com.cs399.i_buy_3:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle com.cs399.i_buy_3:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_weight com.cs399.i_buy_3:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_creator com.cs399.i_buy_3:layout_constraintLeft_creator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toLeftOf com.cs399.i_buy_3:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toRightOf com.cs399.i_buy_3:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_creator com.cs399.i_buy_3:layout_constraintRight_creator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toLeftOf com.cs399.i_buy_3:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toRightOf com.cs399.i_buy_3:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toEndOf com.cs399.i_buy_3:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toStartOf com.cs399.i_buy_3:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_creator com.cs399.i_buy_3:layout_constraintTop_creator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toBottomOf com.cs399.i_buy_3:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toTopOf com.cs399.i_buy_3:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_bias com.cs399.i_buy_3:layout_constraintVertical_bias}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_chainStyle com.cs399.i_buy_3:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_weight com.cs399.i_buy_3:layout_constraintVertical_weight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_default com.cs399.i_buy_3:layout_constraintWidth_default}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_max com.cs399.i_buy_3:layout_constraintWidth_max}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_min com.cs399.i_buy_3:layout_constraintWidth_min}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteX com.cs399.i_buy_3:layout_editor_absoluteX}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteY com.cs399.i_buy_3:layout_editor_absoluteY}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginBottom com.cs399.i_buy_3:layout_goneMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginEnd com.cs399.i_buy_3:layout_goneMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginLeft com.cs399.i_buy_3:layout_goneMarginLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginRight com.cs399.i_buy_3:layout_goneMarginRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginStart com.cs399.i_buy_3:layout_goneMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginTop com.cs399.i_buy_3:layout_goneMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_optimizationLevel com.cs399.i_buy_3:layout_optimizationLevel}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_constraintSet com.cs386.NAUToDo:constraintSet}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_creator com.cs386.NAUToDo:layout_constraintBaseline_creator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf com.cs386.NAUToDo:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_creator com.cs386.NAUToDo:layout_constraintBottom_creator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toBottomOf com.cs386.NAUToDo:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toTopOf com.cs386.NAUToDo:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintDimensionRatio com.cs386.NAUToDo:layout_constraintDimensionRatio}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toEndOf com.cs386.NAUToDo:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toStartOf com.cs386.NAUToDo:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_begin com.cs386.NAUToDo:layout_constraintGuide_begin}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_end com.cs386.NAUToDo:layout_constraintGuide_end}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_percent com.cs386.NAUToDo:layout_constraintGuide_percent}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_default com.cs386.NAUToDo:layout_constraintHeight_default}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_max com.cs386.NAUToDo:layout_constraintHeight_max}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_min com.cs386.NAUToDo:layout_constraintHeight_min}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_bias com.cs386.NAUToDo:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle com.cs386.NAUToDo:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_weight com.cs386.NAUToDo:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_creator com.cs386.NAUToDo:layout_constraintLeft_creator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toLeftOf com.cs386.NAUToDo:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toRightOf com.cs386.NAUToDo:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_creator com.cs386.NAUToDo:layout_constraintRight_creator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toLeftOf com.cs386.NAUToDo:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toRightOf com.cs386.NAUToDo:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toEndOf com.cs386.NAUToDo:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toStartOf com.cs386.NAUToDo:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_creator com.cs386.NAUToDo:layout_constraintTop_creator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toBottomOf com.cs386.NAUToDo:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toTopOf com.cs386.NAUToDo:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_bias com.cs386.NAUToDo:layout_constraintVertical_bias}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_chainStyle com.cs386.NAUToDo:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_weight com.cs386.NAUToDo:layout_constraintVertical_weight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_default com.cs386.NAUToDo:layout_constraintWidth_default}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_max com.cs386.NAUToDo:layout_constraintWidth_max}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_min com.cs386.NAUToDo:layout_constraintWidth_min}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteX com.cs386.NAUToDo:layout_editor_absoluteX}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteY com.cs386.NAUToDo:layout_editor_absoluteY}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginBottom com.cs386.NAUToDo:layout_goneMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginEnd com.cs386.NAUToDo:layout_goneMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginLeft com.cs386.NAUToDo:layout_goneMarginLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginRight com.cs386.NAUToDo:layout_goneMarginRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginStart com.cs386.NAUToDo:layout_goneMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginTop com.cs386.NAUToDo:layout_goneMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_optimizationLevel com.cs386.NAUToDo:layout_optimizationLevel}</code></td><td></td></tr>
            </table>
            @see #ConstraintLayout_Layout_android_maxHeight
            @see #ConstraintLayout_Layout_android_maxWidth
@@ -7695,17 +7695,17 @@ containing a value of this type.
         */
         public static final int ConstraintLayout_Layout_android_orientation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#constraintSet}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#constraintSet}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:constraintSet
+          @attr name com.cs386.NAUToDo:constraintSet
         */
         public static final int ConstraintLayout_Layout_constraintSet = 5;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintBaseline_creator}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintBaseline_creator}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -7715,11 +7715,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_constraintBaseline_creator
+          @attr name com.cs386.NAUToDo:layout_constraintBaseline_creator
         */
         public static final int ConstraintLayout_Layout_layout_constraintBaseline_creator = 6;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintBaseline_toBaselineOf}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintBaseline_toBaselineOf}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -7733,11 +7733,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:layout_constraintBaseline_toBaselineOf
+          @attr name com.cs386.NAUToDo:layout_constraintBaseline_toBaselineOf
         */
         public static final int ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf = 7;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintBottom_creator}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintBottom_creator}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -7747,11 +7747,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_constraintBottom_creator
+          @attr name com.cs386.NAUToDo:layout_constraintBottom_creator
         */
         public static final int ConstraintLayout_Layout_layout_constraintBottom_creator = 8;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintBottom_toBottomOf}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintBottom_toBottomOf}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -7765,11 +7765,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:layout_constraintBottom_toBottomOf
+          @attr name com.cs386.NAUToDo:layout_constraintBottom_toBottomOf
         */
         public static final int ConstraintLayout_Layout_layout_constraintBottom_toBottomOf = 9;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintBottom_toTopOf}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintBottom_toTopOf}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -7783,11 +7783,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:layout_constraintBottom_toTopOf
+          @attr name com.cs386.NAUToDo:layout_constraintBottom_toTopOf
         */
         public static final int ConstraintLayout_Layout_layout_constraintBottom_toTopOf = 10;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintDimensionRatio}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintDimensionRatio}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -7797,11 +7797,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_constraintDimensionRatio
+          @attr name com.cs386.NAUToDo:layout_constraintDimensionRatio
         */
         public static final int ConstraintLayout_Layout_layout_constraintDimensionRatio = 11;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintEnd_toEndOf}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintEnd_toEndOf}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -7815,11 +7815,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:layout_constraintEnd_toEndOf
+          @attr name com.cs386.NAUToDo:layout_constraintEnd_toEndOf
         */
         public static final int ConstraintLayout_Layout_layout_constraintEnd_toEndOf = 12;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintEnd_toStartOf}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintEnd_toStartOf}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -7833,11 +7833,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:layout_constraintEnd_toStartOf
+          @attr name com.cs386.NAUToDo:layout_constraintEnd_toStartOf
         */
         public static final int ConstraintLayout_Layout_layout_constraintEnd_toStartOf = 13;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintGuide_begin}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintGuide_begin}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -7849,11 +7849,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_constraintGuide_begin
+          @attr name com.cs386.NAUToDo:layout_constraintGuide_begin
         */
         public static final int ConstraintLayout_Layout_layout_constraintGuide_begin = 14;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintGuide_end}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintGuide_end}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -7865,11 +7865,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_constraintGuide_end
+          @attr name com.cs386.NAUToDo:layout_constraintGuide_end
         */
         public static final int ConstraintLayout_Layout_layout_constraintGuide_end = 15;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintGuide_percent}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintGuide_percent}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -7879,11 +7879,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_constraintGuide_percent
+          @attr name com.cs386.NAUToDo:layout_constraintGuide_percent
         */
         public static final int ConstraintLayout_Layout_layout_constraintGuide_percent = 16;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintHeight_default}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintHeight_default}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -7896,11 +7896,11 @@ containing a value of this type.
 <tr><td><code>spread</code></td><td>0</td><td></td></tr>
 <tr><td><code>wrap</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:layout_constraintHeight_default
+          @attr name com.cs386.NAUToDo:layout_constraintHeight_default
         */
         public static final int ConstraintLayout_Layout_layout_constraintHeight_default = 17;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintHeight_max}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintHeight_max}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -7912,11 +7912,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_constraintHeight_max
+          @attr name com.cs386.NAUToDo:layout_constraintHeight_max
         */
         public static final int ConstraintLayout_Layout_layout_constraintHeight_max = 18;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintHeight_min}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintHeight_min}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -7928,11 +7928,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_constraintHeight_min
+          @attr name com.cs386.NAUToDo:layout_constraintHeight_min
         */
         public static final int ConstraintLayout_Layout_layout_constraintHeight_min = 19;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintHorizontal_bias}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintHorizontal_bias}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -7942,11 +7942,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_constraintHorizontal_bias
+          @attr name com.cs386.NAUToDo:layout_constraintHorizontal_bias
         */
         public static final int ConstraintLayout_Layout_layout_constraintHorizontal_bias = 20;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintHorizontal_chainStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintHorizontal_chainStyle}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -7960,11 +7960,11 @@ containing a value of this type.
 <tr><td><code>spread_inside</code></td><td>1</td><td></td></tr>
 <tr><td><code>packed</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:layout_constraintHorizontal_chainStyle
+          @attr name com.cs386.NAUToDo:layout_constraintHorizontal_chainStyle
         */
         public static final int ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle = 21;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintHorizontal_weight}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintHorizontal_weight}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -7974,11 +7974,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_constraintHorizontal_weight
+          @attr name com.cs386.NAUToDo:layout_constraintHorizontal_weight
         */
         public static final int ConstraintLayout_Layout_layout_constraintHorizontal_weight = 22;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintLeft_creator}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintLeft_creator}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -7988,11 +7988,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_constraintLeft_creator
+          @attr name com.cs386.NAUToDo:layout_constraintLeft_creator
         */
         public static final int ConstraintLayout_Layout_layout_constraintLeft_creator = 23;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintLeft_toLeftOf}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintLeft_toLeftOf}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -8006,11 +8006,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:layout_constraintLeft_toLeftOf
+          @attr name com.cs386.NAUToDo:layout_constraintLeft_toLeftOf
         */
         public static final int ConstraintLayout_Layout_layout_constraintLeft_toLeftOf = 24;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintLeft_toRightOf}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintLeft_toRightOf}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -8024,11 +8024,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:layout_constraintLeft_toRightOf
+          @attr name com.cs386.NAUToDo:layout_constraintLeft_toRightOf
         */
         public static final int ConstraintLayout_Layout_layout_constraintLeft_toRightOf = 25;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintRight_creator}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintRight_creator}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -8038,11 +8038,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_constraintRight_creator
+          @attr name com.cs386.NAUToDo:layout_constraintRight_creator
         */
         public static final int ConstraintLayout_Layout_layout_constraintRight_creator = 26;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintRight_toLeftOf}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintRight_toLeftOf}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -8056,11 +8056,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:layout_constraintRight_toLeftOf
+          @attr name com.cs386.NAUToDo:layout_constraintRight_toLeftOf
         */
         public static final int ConstraintLayout_Layout_layout_constraintRight_toLeftOf = 27;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintRight_toRightOf}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintRight_toRightOf}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -8074,11 +8074,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:layout_constraintRight_toRightOf
+          @attr name com.cs386.NAUToDo:layout_constraintRight_toRightOf
         */
         public static final int ConstraintLayout_Layout_layout_constraintRight_toRightOf = 28;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintStart_toEndOf}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintStart_toEndOf}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -8092,11 +8092,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:layout_constraintStart_toEndOf
+          @attr name com.cs386.NAUToDo:layout_constraintStart_toEndOf
         */
         public static final int ConstraintLayout_Layout_layout_constraintStart_toEndOf = 29;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintStart_toStartOf}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintStart_toStartOf}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -8110,11 +8110,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:layout_constraintStart_toStartOf
+          @attr name com.cs386.NAUToDo:layout_constraintStart_toStartOf
         */
         public static final int ConstraintLayout_Layout_layout_constraintStart_toStartOf = 30;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintTop_creator}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintTop_creator}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -8124,11 +8124,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_constraintTop_creator
+          @attr name com.cs386.NAUToDo:layout_constraintTop_creator
         */
         public static final int ConstraintLayout_Layout_layout_constraintTop_creator = 31;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintTop_toBottomOf}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintTop_toBottomOf}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -8142,11 +8142,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:layout_constraintTop_toBottomOf
+          @attr name com.cs386.NAUToDo:layout_constraintTop_toBottomOf
         */
         public static final int ConstraintLayout_Layout_layout_constraintTop_toBottomOf = 32;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintTop_toTopOf}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintTop_toTopOf}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -8160,11 +8160,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:layout_constraintTop_toTopOf
+          @attr name com.cs386.NAUToDo:layout_constraintTop_toTopOf
         */
         public static final int ConstraintLayout_Layout_layout_constraintTop_toTopOf = 33;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintVertical_bias}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintVertical_bias}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -8174,11 +8174,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_constraintVertical_bias
+          @attr name com.cs386.NAUToDo:layout_constraintVertical_bias
         */
         public static final int ConstraintLayout_Layout_layout_constraintVertical_bias = 34;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintVertical_chainStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintVertical_chainStyle}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -8192,11 +8192,11 @@ containing a value of this type.
 <tr><td><code>spread_inside</code></td><td>1</td><td></td></tr>
 <tr><td><code>packed</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:layout_constraintVertical_chainStyle
+          @attr name com.cs386.NAUToDo:layout_constraintVertical_chainStyle
         */
         public static final int ConstraintLayout_Layout_layout_constraintVertical_chainStyle = 35;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintVertical_weight}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintVertical_weight}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -8206,11 +8206,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_constraintVertical_weight
+          @attr name com.cs386.NAUToDo:layout_constraintVertical_weight
         */
         public static final int ConstraintLayout_Layout_layout_constraintVertical_weight = 36;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintWidth_default}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintWidth_default}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -8223,11 +8223,11 @@ containing a value of this type.
 <tr><td><code>spread</code></td><td>0</td><td></td></tr>
 <tr><td><code>wrap</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:layout_constraintWidth_default
+          @attr name com.cs386.NAUToDo:layout_constraintWidth_default
         */
         public static final int ConstraintLayout_Layout_layout_constraintWidth_default = 37;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintWidth_max}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintWidth_max}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -8239,11 +8239,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_constraintWidth_max
+          @attr name com.cs386.NAUToDo:layout_constraintWidth_max
         */
         public static final int ConstraintLayout_Layout_layout_constraintWidth_max = 38;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintWidth_min}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintWidth_min}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -8255,11 +8255,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_constraintWidth_min
+          @attr name com.cs386.NAUToDo:layout_constraintWidth_min
         */
         public static final int ConstraintLayout_Layout_layout_constraintWidth_min = 39;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_editor_absoluteX}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_editor_absoluteX}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -8271,11 +8271,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_editor_absoluteX
+          @attr name com.cs386.NAUToDo:layout_editor_absoluteX
         */
         public static final int ConstraintLayout_Layout_layout_editor_absoluteX = 40;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_editor_absoluteY}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_editor_absoluteY}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -8287,11 +8287,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_editor_absoluteY
+          @attr name com.cs386.NAUToDo:layout_editor_absoluteY
         */
         public static final int ConstraintLayout_Layout_layout_editor_absoluteY = 41;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_goneMarginBottom}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_goneMarginBottom}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -8303,11 +8303,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_goneMarginBottom
+          @attr name com.cs386.NAUToDo:layout_goneMarginBottom
         */
         public static final int ConstraintLayout_Layout_layout_goneMarginBottom = 42;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_goneMarginEnd}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_goneMarginEnd}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -8319,11 +8319,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_goneMarginEnd
+          @attr name com.cs386.NAUToDo:layout_goneMarginEnd
         */
         public static final int ConstraintLayout_Layout_layout_goneMarginEnd = 43;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_goneMarginLeft}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_goneMarginLeft}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -8335,11 +8335,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_goneMarginLeft
+          @attr name com.cs386.NAUToDo:layout_goneMarginLeft
         */
         public static final int ConstraintLayout_Layout_layout_goneMarginLeft = 44;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_goneMarginRight}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_goneMarginRight}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -8351,11 +8351,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_goneMarginRight
+          @attr name com.cs386.NAUToDo:layout_goneMarginRight
         */
         public static final int ConstraintLayout_Layout_layout_goneMarginRight = 45;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_goneMarginStart}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_goneMarginStart}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -8367,11 +8367,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_goneMarginStart
+          @attr name com.cs386.NAUToDo:layout_goneMarginStart
         */
         public static final int ConstraintLayout_Layout_layout_goneMarginStart = 46;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_goneMarginTop}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_goneMarginTop}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -8383,11 +8383,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_goneMarginTop
+          @attr name com.cs386.NAUToDo:layout_goneMarginTop
         */
         public static final int ConstraintLayout_Layout_layout_goneMarginTop = 47;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_optimizationLevel}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_optimizationLevel}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -8402,7 +8402,7 @@ containing a value of this type.
 <tr><td><code>basic</code></td><td>4</td><td></td></tr>
 <tr><td><code>chains</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:layout_optimizationLevel
+          @attr name com.cs386.NAUToDo:layout_optimizationLevel
         */
         public static final int ConstraintLayout_Layout_layout_optimizationLevel = 48;
         /** Attributes that can be used with a ConstraintSet.
@@ -8433,48 +8433,48 @@ containing a value of this type.
            <tr><td><code>{@link #ConstraintSet_android_translationY android:translationY}</code></td><td></td></tr>
            <tr><td><code>{@link #ConstraintSet_android_translationZ android:translationZ}</code></td><td></td></tr>
            <tr><td><code>{@link #ConstraintSet_android_visibility android:visibility}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_creator com.cs399.i_buy_3:layout_constraintBaseline_creator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_toBaselineOf com.cs399.i_buy_3:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_creator com.cs399.i_buy_3:layout_constraintBottom_creator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toBottomOf com.cs399.i_buy_3:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toTopOf com.cs399.i_buy_3:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintDimensionRatio com.cs399.i_buy_3:layout_constraintDimensionRatio}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toEndOf com.cs399.i_buy_3:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toStartOf com.cs399.i_buy_3:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_begin com.cs399.i_buy_3:layout_constraintGuide_begin}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_end com.cs399.i_buy_3:layout_constraintGuide_end}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_percent com.cs399.i_buy_3:layout_constraintGuide_percent}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_default com.cs399.i_buy_3:layout_constraintHeight_default}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_max com.cs399.i_buy_3:layout_constraintHeight_max}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_min com.cs399.i_buy_3:layout_constraintHeight_min}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_bias com.cs399.i_buy_3:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_chainStyle com.cs399.i_buy_3:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_weight com.cs399.i_buy_3:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_creator com.cs399.i_buy_3:layout_constraintLeft_creator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toLeftOf com.cs399.i_buy_3:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toRightOf com.cs399.i_buy_3:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintRight_creator com.cs399.i_buy_3:layout_constraintRight_creator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toLeftOf com.cs399.i_buy_3:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toRightOf com.cs399.i_buy_3:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toEndOf com.cs399.i_buy_3:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toStartOf com.cs399.i_buy_3:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintTop_creator com.cs399.i_buy_3:layout_constraintTop_creator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toBottomOf com.cs399.i_buy_3:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toTopOf com.cs399.i_buy_3:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_bias com.cs399.i_buy_3:layout_constraintVertical_bias}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_chainStyle com.cs399.i_buy_3:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_weight com.cs399.i_buy_3:layout_constraintVertical_weight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_default com.cs399.i_buy_3:layout_constraintWidth_default}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_max com.cs399.i_buy_3:layout_constraintWidth_max}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_min com.cs399.i_buy_3:layout_constraintWidth_min}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteX com.cs399.i_buy_3:layout_editor_absoluteX}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteY com.cs399.i_buy_3:layout_editor_absoluteY}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_goneMarginBottom com.cs399.i_buy_3:layout_goneMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_goneMarginEnd com.cs399.i_buy_3:layout_goneMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_goneMarginLeft com.cs399.i_buy_3:layout_goneMarginLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_goneMarginRight com.cs399.i_buy_3:layout_goneMarginRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_goneMarginStart com.cs399.i_buy_3:layout_goneMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_goneMarginTop com.cs399.i_buy_3:layout_goneMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_creator com.cs386.NAUToDo:layout_constraintBaseline_creator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_toBaselineOf com.cs386.NAUToDo:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_creator com.cs386.NAUToDo:layout_constraintBottom_creator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toBottomOf com.cs386.NAUToDo:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toTopOf com.cs386.NAUToDo:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintDimensionRatio com.cs386.NAUToDo:layout_constraintDimensionRatio}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toEndOf com.cs386.NAUToDo:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toStartOf com.cs386.NAUToDo:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_begin com.cs386.NAUToDo:layout_constraintGuide_begin}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_end com.cs386.NAUToDo:layout_constraintGuide_end}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_percent com.cs386.NAUToDo:layout_constraintGuide_percent}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_default com.cs386.NAUToDo:layout_constraintHeight_default}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_max com.cs386.NAUToDo:layout_constraintHeight_max}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_min com.cs386.NAUToDo:layout_constraintHeight_min}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_bias com.cs386.NAUToDo:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_chainStyle com.cs386.NAUToDo:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_weight com.cs386.NAUToDo:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_creator com.cs386.NAUToDo:layout_constraintLeft_creator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toLeftOf com.cs386.NAUToDo:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toRightOf com.cs386.NAUToDo:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintRight_creator com.cs386.NAUToDo:layout_constraintRight_creator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toLeftOf com.cs386.NAUToDo:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toRightOf com.cs386.NAUToDo:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toEndOf com.cs386.NAUToDo:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toStartOf com.cs386.NAUToDo:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintTop_creator com.cs386.NAUToDo:layout_constraintTop_creator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toBottomOf com.cs386.NAUToDo:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toTopOf com.cs386.NAUToDo:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_bias com.cs386.NAUToDo:layout_constraintVertical_bias}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_chainStyle com.cs386.NAUToDo:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_weight com.cs386.NAUToDo:layout_constraintVertical_weight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_default com.cs386.NAUToDo:layout_constraintWidth_default}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_max com.cs386.NAUToDo:layout_constraintWidth_max}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_min com.cs386.NAUToDo:layout_constraintWidth_min}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteX com.cs386.NAUToDo:layout_editor_absoluteX}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteY com.cs386.NAUToDo:layout_editor_absoluteY}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_goneMarginBottom com.cs386.NAUToDo:layout_goneMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_goneMarginEnd com.cs386.NAUToDo:layout_goneMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_goneMarginLeft com.cs386.NAUToDo:layout_goneMarginLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_goneMarginRight com.cs386.NAUToDo:layout_goneMarginRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_goneMarginStart com.cs386.NAUToDo:layout_goneMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_goneMarginTop com.cs386.NAUToDo:layout_goneMarginTop}</code></td><td></td></tr>
            </table>
            @see #ConstraintSet_android_alpha
            @see #ConstraintSet_android_elevation
@@ -8692,7 +8692,7 @@ containing a value of this type.
         */
         public static final int ConstraintSet_android_visibility = 2;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintBaseline_creator}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintBaseline_creator}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -8702,11 +8702,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_constraintBaseline_creator
+          @attr name com.cs386.NAUToDo:layout_constraintBaseline_creator
         */
         public static final int ConstraintSet_layout_constraintBaseline_creator = 22;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintBaseline_toBaselineOf}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintBaseline_toBaselineOf}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -8720,11 +8720,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:layout_constraintBaseline_toBaselineOf
+          @attr name com.cs386.NAUToDo:layout_constraintBaseline_toBaselineOf
         */
         public static final int ConstraintSet_layout_constraintBaseline_toBaselineOf = 23;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintBottom_creator}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintBottom_creator}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -8734,11 +8734,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_constraintBottom_creator
+          @attr name com.cs386.NAUToDo:layout_constraintBottom_creator
         */
         public static final int ConstraintSet_layout_constraintBottom_creator = 24;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintBottom_toBottomOf}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintBottom_toBottomOf}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -8752,11 +8752,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:layout_constraintBottom_toBottomOf
+          @attr name com.cs386.NAUToDo:layout_constraintBottom_toBottomOf
         */
         public static final int ConstraintSet_layout_constraintBottom_toBottomOf = 25;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintBottom_toTopOf}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintBottom_toTopOf}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -8770,11 +8770,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:layout_constraintBottom_toTopOf
+          @attr name com.cs386.NAUToDo:layout_constraintBottom_toTopOf
         */
         public static final int ConstraintSet_layout_constraintBottom_toTopOf = 26;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintDimensionRatio}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintDimensionRatio}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -8784,11 +8784,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_constraintDimensionRatio
+          @attr name com.cs386.NAUToDo:layout_constraintDimensionRatio
         */
         public static final int ConstraintSet_layout_constraintDimensionRatio = 27;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintEnd_toEndOf}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintEnd_toEndOf}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -8802,11 +8802,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:layout_constraintEnd_toEndOf
+          @attr name com.cs386.NAUToDo:layout_constraintEnd_toEndOf
         */
         public static final int ConstraintSet_layout_constraintEnd_toEndOf = 28;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintEnd_toStartOf}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintEnd_toStartOf}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -8820,11 +8820,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:layout_constraintEnd_toStartOf
+          @attr name com.cs386.NAUToDo:layout_constraintEnd_toStartOf
         */
         public static final int ConstraintSet_layout_constraintEnd_toStartOf = 29;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintGuide_begin}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintGuide_begin}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -8836,11 +8836,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_constraintGuide_begin
+          @attr name com.cs386.NAUToDo:layout_constraintGuide_begin
         */
         public static final int ConstraintSet_layout_constraintGuide_begin = 30;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintGuide_end}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintGuide_end}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -8852,11 +8852,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_constraintGuide_end
+          @attr name com.cs386.NAUToDo:layout_constraintGuide_end
         */
         public static final int ConstraintSet_layout_constraintGuide_end = 31;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintGuide_percent}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintGuide_percent}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -8866,11 +8866,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_constraintGuide_percent
+          @attr name com.cs386.NAUToDo:layout_constraintGuide_percent
         */
         public static final int ConstraintSet_layout_constraintGuide_percent = 32;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintHeight_default}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintHeight_default}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -8883,11 +8883,11 @@ containing a value of this type.
 <tr><td><code>spread</code></td><td>0</td><td></td></tr>
 <tr><td><code>wrap</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:layout_constraintHeight_default
+          @attr name com.cs386.NAUToDo:layout_constraintHeight_default
         */
         public static final int ConstraintSet_layout_constraintHeight_default = 33;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintHeight_max}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintHeight_max}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -8899,11 +8899,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_constraintHeight_max
+          @attr name com.cs386.NAUToDo:layout_constraintHeight_max
         */
         public static final int ConstraintSet_layout_constraintHeight_max = 34;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintHeight_min}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintHeight_min}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -8915,11 +8915,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_constraintHeight_min
+          @attr name com.cs386.NAUToDo:layout_constraintHeight_min
         */
         public static final int ConstraintSet_layout_constraintHeight_min = 35;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintHorizontal_bias}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintHorizontal_bias}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -8929,11 +8929,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_constraintHorizontal_bias
+          @attr name com.cs386.NAUToDo:layout_constraintHorizontal_bias
         */
         public static final int ConstraintSet_layout_constraintHorizontal_bias = 36;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintHorizontal_chainStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintHorizontal_chainStyle}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -8947,11 +8947,11 @@ containing a value of this type.
 <tr><td><code>spread_inside</code></td><td>1</td><td></td></tr>
 <tr><td><code>packed</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:layout_constraintHorizontal_chainStyle
+          @attr name com.cs386.NAUToDo:layout_constraintHorizontal_chainStyle
         */
         public static final int ConstraintSet_layout_constraintHorizontal_chainStyle = 37;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintHorizontal_weight}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintHorizontal_weight}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -8961,11 +8961,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_constraintHorizontal_weight
+          @attr name com.cs386.NAUToDo:layout_constraintHorizontal_weight
         */
         public static final int ConstraintSet_layout_constraintHorizontal_weight = 38;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintLeft_creator}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintLeft_creator}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -8975,11 +8975,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_constraintLeft_creator
+          @attr name com.cs386.NAUToDo:layout_constraintLeft_creator
         */
         public static final int ConstraintSet_layout_constraintLeft_creator = 39;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintLeft_toLeftOf}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintLeft_toLeftOf}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -8993,11 +8993,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:layout_constraintLeft_toLeftOf
+          @attr name com.cs386.NAUToDo:layout_constraintLeft_toLeftOf
         */
         public static final int ConstraintSet_layout_constraintLeft_toLeftOf = 40;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintLeft_toRightOf}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintLeft_toRightOf}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -9011,11 +9011,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:layout_constraintLeft_toRightOf
+          @attr name com.cs386.NAUToDo:layout_constraintLeft_toRightOf
         */
         public static final int ConstraintSet_layout_constraintLeft_toRightOf = 41;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintRight_creator}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintRight_creator}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -9025,11 +9025,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_constraintRight_creator
+          @attr name com.cs386.NAUToDo:layout_constraintRight_creator
         */
         public static final int ConstraintSet_layout_constraintRight_creator = 42;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintRight_toLeftOf}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintRight_toLeftOf}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -9043,11 +9043,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:layout_constraintRight_toLeftOf
+          @attr name com.cs386.NAUToDo:layout_constraintRight_toLeftOf
         */
         public static final int ConstraintSet_layout_constraintRight_toLeftOf = 43;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintRight_toRightOf}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintRight_toRightOf}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -9061,11 +9061,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:layout_constraintRight_toRightOf
+          @attr name com.cs386.NAUToDo:layout_constraintRight_toRightOf
         */
         public static final int ConstraintSet_layout_constraintRight_toRightOf = 44;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintStart_toEndOf}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintStart_toEndOf}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -9079,11 +9079,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:layout_constraintStart_toEndOf
+          @attr name com.cs386.NAUToDo:layout_constraintStart_toEndOf
         */
         public static final int ConstraintSet_layout_constraintStart_toEndOf = 45;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintStart_toStartOf}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintStart_toStartOf}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -9097,11 +9097,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:layout_constraintStart_toStartOf
+          @attr name com.cs386.NAUToDo:layout_constraintStart_toStartOf
         */
         public static final int ConstraintSet_layout_constraintStart_toStartOf = 46;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintTop_creator}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintTop_creator}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -9111,11 +9111,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_constraintTop_creator
+          @attr name com.cs386.NAUToDo:layout_constraintTop_creator
         */
         public static final int ConstraintSet_layout_constraintTop_creator = 47;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintTop_toBottomOf}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintTop_toBottomOf}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -9129,11 +9129,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:layout_constraintTop_toBottomOf
+          @attr name com.cs386.NAUToDo:layout_constraintTop_toBottomOf
         */
         public static final int ConstraintSet_layout_constraintTop_toBottomOf = 48;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintTop_toTopOf}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintTop_toTopOf}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -9147,11 +9147,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:layout_constraintTop_toTopOf
+          @attr name com.cs386.NAUToDo:layout_constraintTop_toTopOf
         */
         public static final int ConstraintSet_layout_constraintTop_toTopOf = 49;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintVertical_bias}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintVertical_bias}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -9161,11 +9161,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_constraintVertical_bias
+          @attr name com.cs386.NAUToDo:layout_constraintVertical_bias
         */
         public static final int ConstraintSet_layout_constraintVertical_bias = 50;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintVertical_chainStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintVertical_chainStyle}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -9179,11 +9179,11 @@ containing a value of this type.
 <tr><td><code>spread_inside</code></td><td>1</td><td></td></tr>
 <tr><td><code>packed</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:layout_constraintVertical_chainStyle
+          @attr name com.cs386.NAUToDo:layout_constraintVertical_chainStyle
         */
         public static final int ConstraintSet_layout_constraintVertical_chainStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintVertical_weight}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintVertical_weight}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -9193,11 +9193,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_constraintVertical_weight
+          @attr name com.cs386.NAUToDo:layout_constraintVertical_weight
         */
         public static final int ConstraintSet_layout_constraintVertical_weight = 52;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintWidth_default}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintWidth_default}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -9210,11 +9210,11 @@ containing a value of this type.
 <tr><td><code>spread</code></td><td>0</td><td></td></tr>
 <tr><td><code>wrap</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:layout_constraintWidth_default
+          @attr name com.cs386.NAUToDo:layout_constraintWidth_default
         */
         public static final int ConstraintSet_layout_constraintWidth_default = 53;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintWidth_max}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintWidth_max}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -9226,11 +9226,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_constraintWidth_max
+          @attr name com.cs386.NAUToDo:layout_constraintWidth_max
         */
         public static final int ConstraintSet_layout_constraintWidth_max = 54;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_constraintWidth_min}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_constraintWidth_min}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -9242,11 +9242,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_constraintWidth_min
+          @attr name com.cs386.NAUToDo:layout_constraintWidth_min
         */
         public static final int ConstraintSet_layout_constraintWidth_min = 55;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_editor_absoluteX}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_editor_absoluteX}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -9258,11 +9258,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_editor_absoluteX
+          @attr name com.cs386.NAUToDo:layout_editor_absoluteX
         */
         public static final int ConstraintSet_layout_editor_absoluteX = 56;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_editor_absoluteY}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_editor_absoluteY}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -9274,11 +9274,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_editor_absoluteY
+          @attr name com.cs386.NAUToDo:layout_editor_absoluteY
         */
         public static final int ConstraintSet_layout_editor_absoluteY = 57;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_goneMarginBottom}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_goneMarginBottom}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -9290,11 +9290,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_goneMarginBottom
+          @attr name com.cs386.NAUToDo:layout_goneMarginBottom
         */
         public static final int ConstraintSet_layout_goneMarginBottom = 58;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_goneMarginEnd}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_goneMarginEnd}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -9306,11 +9306,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_goneMarginEnd
+          @attr name com.cs386.NAUToDo:layout_goneMarginEnd
         */
         public static final int ConstraintSet_layout_goneMarginEnd = 59;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_goneMarginLeft}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_goneMarginLeft}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -9322,11 +9322,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_goneMarginLeft
+          @attr name com.cs386.NAUToDo:layout_goneMarginLeft
         */
         public static final int ConstraintSet_layout_goneMarginLeft = 60;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_goneMarginRight}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_goneMarginRight}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -9338,11 +9338,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_goneMarginRight
+          @attr name com.cs386.NAUToDo:layout_goneMarginRight
         */
         public static final int ConstraintSet_layout_goneMarginRight = 61;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_goneMarginStart}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_goneMarginStart}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -9354,11 +9354,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_goneMarginStart
+          @attr name com.cs386.NAUToDo:layout_goneMarginStart
         */
         public static final int ConstraintSet_layout_goneMarginStart = 62;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_goneMarginTop}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_goneMarginTop}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -9370,7 +9370,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_goneMarginTop
+          @attr name com.cs386.NAUToDo:layout_goneMarginTop
         */
         public static final int ConstraintSet_layout_goneMarginTop = 63;
         /** Attributes that can be used with a CoordinatorLayout.
@@ -9379,8 +9379,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CoordinatorLayout_keylines com.cs399.i_buy_3:keylines}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.cs399.i_buy_3:statusBarBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_keylines com.cs386.NAUToDo:keylines}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.cs386.NAUToDo:statusBarBackground}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_keylines
            @see #CoordinatorLayout_statusBarBackground
@@ -9389,23 +9389,23 @@ containing a value of this type.
             0x7f0100f1, 0x7f0100f2
         };
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#keylines}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#keylines}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:keylines
+          @attr name com.cs386.NAUToDo:keylines
         */
         public static final int CoordinatorLayout_keylines = 0;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#statusBarBackground}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#statusBarBackground}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:statusBarBackground
+          @attr name com.cs386.NAUToDo:statusBarBackground
         */
         public static final int CoordinatorLayout_statusBarBackground = 1;
         /** Attributes that can be used with a CoordinatorLayout_Layout.
@@ -9415,12 +9415,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.cs399.i_buy_3:layout_anchor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.cs399.i_buy_3:layout_anchorGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.cs399.i_buy_3:layout_behavior}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.cs399.i_buy_3:layout_dodgeInsetEdges}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.cs399.i_buy_3:layout_insetEdge}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.cs399.i_buy_3:layout_keyline}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.cs386.NAUToDo:layout_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.cs386.NAUToDo:layout_anchorGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.cs386.NAUToDo:layout_behavior}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.cs386.NAUToDo:layout_dodgeInsetEdges}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.cs386.NAUToDo:layout_insetEdge}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.cs386.NAUToDo:layout_keyline}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_Layout_android_layout_gravity
            @see #CoordinatorLayout_Layout_layout_anchor
@@ -9441,17 +9441,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int CoordinatorLayout_Layout_android_layout_gravity = 0;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_anchor}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_anchor}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:layout_anchor
+          @attr name com.cs386.NAUToDo:layout_anchor
         */
         public static final int CoordinatorLayout_Layout_layout_anchor = 2;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_anchorGravity}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_anchorGravity}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -9476,11 +9476,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:layout_anchorGravity
+          @attr name com.cs386.NAUToDo:layout_anchorGravity
         */
         public static final int CoordinatorLayout_Layout_layout_anchorGravity = 4;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_behavior}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_behavior}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -9490,11 +9490,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_behavior
+          @attr name com.cs386.NAUToDo:layout_behavior
         */
         public static final int CoordinatorLayout_Layout_layout_behavior = 1;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_dodgeInsetEdges}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_dodgeInsetEdges}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -9513,11 +9513,11 @@ containing a value of this type.
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 <tr><td><code>all</code></td><td>0x77</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:layout_dodgeInsetEdges
+          @attr name com.cs386.NAUToDo:layout_dodgeInsetEdges
         */
         public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges = 6;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_insetEdge}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_insetEdge}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -9535,11 +9535,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:layout_insetEdge
+          @attr name com.cs386.NAUToDo:layout_insetEdge
         */
         public static final int CoordinatorLayout_Layout_layout_insetEdge = 5;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout_keyline}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout_keyline}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -9549,7 +9549,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layout_keyline
+          @attr name com.cs386.NAUToDo:layout_keyline
         */
         public static final int CoordinatorLayout_Layout_layout_keyline = 3;
         /** Attributes that can be used with a DesignTheme.
@@ -9558,9 +9558,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.cs399.i_buy_3:bottomSheetDialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.cs399.i_buy_3:bottomSheetStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_textColorError com.cs399.i_buy_3:textColorError}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.cs386.NAUToDo:bottomSheetDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.cs386.NAUToDo:bottomSheetStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_textColorError com.cs386.NAUToDo:textColorError}</code></td><td></td></tr>
            </table>
            @see #DesignTheme_bottomSheetDialogTheme
            @see #DesignTheme_bottomSheetStyle
@@ -9570,27 +9570,27 @@ containing a value of this type.
             0x7f0100f9, 0x7f0100fa, 0x7f0100fb
         };
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#bottomSheetDialogTheme}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#bottomSheetDialogTheme}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:bottomSheetDialogTheme
+          @attr name com.cs386.NAUToDo:bottomSheetDialogTheme
         */
         public static final int DesignTheme_bottomSheetDialogTheme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#bottomSheetStyle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#bottomSheetStyle}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:bottomSheetStyle
+          @attr name com.cs386.NAUToDo:bottomSheetStyle
         */
         public static final int DesignTheme_bottomSheetStyle = 1;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#textColorError}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#textColorError}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
@@ -9601,7 +9601,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:textColorError
+          @attr name com.cs386.NAUToDo:textColorError
         */
         public static final int DesignTheme_textColorError = 2;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -9610,14 +9610,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.cs399.i_buy_3:arrowHeadLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.cs399.i_buy_3:arrowShaftLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength com.cs399.i_buy_3:barLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color com.cs399.i_buy_3:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.cs399.i_buy_3:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.cs399.i_buy_3:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.cs399.i_buy_3:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness com.cs399.i_buy_3:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.cs386.NAUToDo:arrowHeadLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.cs386.NAUToDo:arrowShaftLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength com.cs386.NAUToDo:barLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color com.cs386.NAUToDo:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.cs386.NAUToDo:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.cs386.NAUToDo:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.cs386.NAUToDo:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness com.cs386.NAUToDo:thickness}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_arrowHeadLength
            @see #DrawerArrowToggle_arrowShaftLength
@@ -9633,7 +9633,7 @@ containing a value of this type.
             0x7f010100, 0x7f010101, 0x7f010102, 0x7f010103
         };
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#arrowHeadLength}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#arrowHeadLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -9645,11 +9645,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:arrowHeadLength
+          @attr name com.cs386.NAUToDo:arrowHeadLength
         */
         public static final int DrawerArrowToggle_arrowHeadLength = 4;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#arrowShaftLength}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#arrowShaftLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -9661,11 +9661,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:arrowShaftLength
+          @attr name com.cs386.NAUToDo:arrowShaftLength
         */
         public static final int DrawerArrowToggle_arrowShaftLength = 5;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#barLength}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#barLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -9677,11 +9677,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:barLength
+          @attr name com.cs386.NAUToDo:barLength
         */
         public static final int DrawerArrowToggle_barLength = 6;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#color}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -9692,11 +9692,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:color
+          @attr name com.cs386.NAUToDo:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -9708,11 +9708,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:drawableSize
+          @attr name com.cs386.NAUToDo:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -9724,11 +9724,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:gapBetweenBars
+          @attr name com.cs386.NAUToDo:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -9738,11 +9738,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:spinBars
+          @attr name com.cs386.NAUToDo:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#thickness}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -9754,7 +9754,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:thickness
+          @attr name com.cs386.NAUToDo:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
         /** Attributes that can be used with a FloatingActionButton.
@@ -9763,14 +9763,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTint com.cs399.i_buy_3:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.cs399.i_buy_3:backgroundTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_borderWidth com.cs399.i_buy_3:borderWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_elevation com.cs399.i_buy_3:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fabSize com.cs399.i_buy_3:fabSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.cs399.i_buy_3:pressedTranslationZ}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_rippleColor com.cs399.i_buy_3:rippleColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.cs399.i_buy_3:useCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTint com.cs386.NAUToDo:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.cs386.NAUToDo:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_borderWidth com.cs386.NAUToDo:borderWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_elevation com.cs386.NAUToDo:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fabSize com.cs386.NAUToDo:fabSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.cs386.NAUToDo:pressedTranslationZ}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_rippleColor com.cs386.NAUToDo:rippleColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.cs386.NAUToDo:useCompatPadding}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_backgroundTint
            @see #FloatingActionButton_backgroundTintMode
@@ -9786,7 +9786,7 @@ containing a value of this type.
             0x7f010107, 0x7f010108, 0x7f01016f, 0x7f010170
         };
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#backgroundTint}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -9797,11 +9797,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:backgroundTint
+          @attr name com.cs386.NAUToDo:backgroundTint
         */
         public static final int FloatingActionButton_backgroundTint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -9817,11 +9817,11 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:backgroundTintMode
+          @attr name com.cs386.NAUToDo:backgroundTintMode
         */
         public static final int FloatingActionButton_backgroundTintMode = 7;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#borderWidth}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#borderWidth}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -9833,11 +9833,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:borderWidth
+          @attr name com.cs386.NAUToDo:borderWidth
         */
         public static final int FloatingActionButton_borderWidth = 4;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#elevation}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -9849,11 +9849,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:elevation
+          @attr name com.cs386.NAUToDo:elevation
         */
         public static final int FloatingActionButton_elevation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#fabSize}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#fabSize}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -9867,11 +9867,11 @@ containing a value of this type.
 <tr><td><code>normal</code></td><td>0</td><td></td></tr>
 <tr><td><code>mini</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:fabSize
+          @attr name com.cs386.NAUToDo:fabSize
         */
         public static final int FloatingActionButton_fabSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#pressedTranslationZ}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#pressedTranslationZ}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -9883,11 +9883,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:pressedTranslationZ
+          @attr name com.cs386.NAUToDo:pressedTranslationZ
         */
         public static final int FloatingActionButton_pressedTranslationZ = 3;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#rippleColor}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#rippleColor}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -9898,11 +9898,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:rippleColor
+          @attr name com.cs386.NAUToDo:rippleColor
         */
         public static final int FloatingActionButton_rippleColor = 1;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#useCompatPadding}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#useCompatPadding}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -9912,7 +9912,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:useCompatPadding
+          @attr name com.cs386.NAUToDo:useCompatPadding
         */
         public static final int FloatingActionButton_useCompatPadding = 5;
         /** Attributes that can be used with a FloatingActionButton_Behavior_Layout.
@@ -9921,7 +9921,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.cs399.i_buy_3:behavior_autoHide}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.cs386.NAUToDo:behavior_autoHide}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_Behavior_Layout_behavior_autoHide
          */
@@ -9929,7 +9929,7 @@ containing a value of this type.
             0x7f010109
         };
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#behavior_autoHide}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#behavior_autoHide}
           attribute's value can be found in the {@link #FloatingActionButton_Behavior_Layout} array.
 
 
@@ -9939,7 +9939,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:behavior_autoHide
+          @attr name com.cs386.NAUToDo:behavior_autoHide
         */
         public static final int FloatingActionButton_Behavior_Layout_behavior_autoHide = 0;
         /** Attributes that can be used with a ForegroundLinearLayout.
@@ -9950,7 +9950,7 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.cs399.i_buy_3:foregroundInsidePadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.cs386.NAUToDo:foregroundInsidePadding}</code></td><td></td></tr>
            </table>
            @see #ForegroundLinearLayout_android_foreground
            @see #ForegroundLinearLayout_android_foregroundGravity
@@ -9972,7 +9972,7 @@ containing a value of this type.
         */
         public static final int ForegroundLinearLayout_android_foregroundGravity = 1;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#foregroundInsidePadding}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#foregroundInsidePadding}
           attribute's value can be found in the {@link #ForegroundLinearLayout} array.
 
 
@@ -9982,7 +9982,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:foregroundInsidePadding
+          @attr name com.cs386.NAUToDo:foregroundInsidePadding
         */
         public static final int ForegroundLinearLayout_foregroundInsidePadding = 2;
         /** Attributes that can be used with a LinearConstraintLayout.
@@ -10015,10 +10015,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider com.cs399.i_buy_3:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.cs399.i_buy_3:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.cs399.i_buy_3:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.cs399.i_buy_3:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider com.cs386.NAUToDo:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.cs386.NAUToDo:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.cs386.NAUToDo:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.cs386.NAUToDo:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -10066,17 +10066,17 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:divider
+          @attr name com.cs386.NAUToDo:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -10088,11 +10088,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:dividerPadding
+          @attr name com.cs386.NAUToDo:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -10102,11 +10102,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:measureWithLargestChild
+          @attr name com.cs386.NAUToDo:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -10121,7 +10121,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:showDividers
+          @attr name com.cs386.NAUToDo:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -10260,9 +10260,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout com.cs399.i_buy_3:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass com.cs399.i_buy_3:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass com.cs399.i_buy_3:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout com.cs386.NAUToDo:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass com.cs386.NAUToDo:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass com.cs386.NAUToDo:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -10276,7 +10276,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction com.cs399.i_buy_3:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction com.cs386.NAUToDo:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -10304,17 +10304,17 @@ containing a value of this type.
             0x7f010111
         };
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:actionLayout
+          @attr name com.cs386.NAUToDo:actionLayout
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -10324,11 +10324,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:actionProviderClass
+          @attr name com.cs386.NAUToDo:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -10338,7 +10338,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:actionViewClass
+          @attr name com.cs386.NAUToDo:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 15;
         /**
@@ -10420,7 +10420,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -10436,7 +10436,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:showAsAction
+          @attr name com.cs386.NAUToDo:showAsAction
         */
         public static final int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -10452,8 +10452,8 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing com.cs399.i_buy_3:preserveIconSpacing}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_subMenuArrow com.cs399.i_buy_3:subMenuArrow}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing com.cs386.NAUToDo:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_subMenuArrow com.cs386.NAUToDo:subMenuArrow}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -10513,7 +10513,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -10523,17 +10523,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:preserveIconSpacing
+          @attr name com.cs386.NAUToDo:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#subMenuArrow}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#subMenuArrow}
           attribute's value can be found in the {@link #MenuView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:subMenuArrow
+          @attr name com.cs386.NAUToDo:subMenuArrow
         */
         public static final int MenuView_subMenuArrow = 8;
         /** Attributes that can be used with a NavigationView.
@@ -10545,13 +10545,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_elevation com.cs399.i_buy_3:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_headerLayout com.cs399.i_buy_3:headerLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemBackground com.cs399.i_buy_3:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemIconTint com.cs399.i_buy_3:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextAppearance com.cs399.i_buy_3:itemTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextColor com.cs399.i_buy_3:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_menu com.cs399.i_buy_3:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_elevation com.cs386.NAUToDo:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_headerLayout com.cs386.NAUToDo:headerLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemBackground com.cs386.NAUToDo:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemIconTint com.cs386.NAUToDo:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextAppearance com.cs386.NAUToDo:itemTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextColor com.cs386.NAUToDo:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_menu com.cs386.NAUToDo:menu}</code></td><td></td></tr>
            </table>
            @see #NavigationView_android_background
            @see #NavigationView_android_fitsSystemWindows
@@ -10588,7 +10588,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int NavigationView_android_maxWidth = 2;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#elevation}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -10600,31 +10600,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:elevation
+          @attr name com.cs386.NAUToDo:elevation
         */
         public static final int NavigationView_elevation = 3;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#headerLayout}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#headerLayout}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:headerLayout
+          @attr name com.cs386.NAUToDo:headerLayout
         */
         public static final int NavigationView_headerLayout = 9;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#itemBackground}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:itemBackground
+          @attr name com.cs386.NAUToDo:itemBackground
         */
         public static final int NavigationView_itemBackground = 7;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#itemIconTint}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -10635,21 +10635,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:itemIconTint
+          @attr name com.cs386.NAUToDo:itemIconTint
         */
         public static final int NavigationView_itemIconTint = 5;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#itemTextAppearance}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#itemTextAppearance}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:itemTextAppearance
+          @attr name com.cs386.NAUToDo:itemTextAppearance
         */
         public static final int NavigationView_itemTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#itemTextColor}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -10660,17 +10660,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:itemTextColor
+          @attr name com.cs386.NAUToDo:itemTextColor
         */
         public static final int NavigationView_itemTextColor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#menu}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#menu}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:menu
+          @attr name com.cs386.NAUToDo:menu
         */
         public static final int NavigationView_menu = 4;
         /** Attributes that can be used with a PopupWindow.
@@ -10681,7 +10681,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor com.cs399.i_buy_3:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor com.cs386.NAUToDo:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupAnimationStyle
            @see #PopupWindow_android_popupBackground
@@ -10703,7 +10703,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -10713,7 +10713,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:overlapAnchor
+          @attr name com.cs386.NAUToDo:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 2;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -10722,7 +10722,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.cs399.i_buy_3:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.cs386.NAUToDo:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -10730,7 +10730,7 @@ containing a value of this type.
             0x7f01011b
         };
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -10740,7 +10740,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:state_above_anchor
+          @attr name com.cs386.NAUToDo:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a RecycleListView.
@@ -10749,8 +10749,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.cs399.i_buy_3:paddingBottomNoButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.cs399.i_buy_3:paddingTopNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.cs386.NAUToDo:paddingBottomNoButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.cs386.NAUToDo:paddingTopNoTitle}</code></td><td></td></tr>
            </table>
            @see #RecycleListView_paddingBottomNoButtons
            @see #RecycleListView_paddingTopNoTitle
@@ -10759,7 +10759,7 @@ containing a value of this type.
             0x7f01011c, 0x7f01011d
         };
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#paddingBottomNoButtons}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#paddingBottomNoButtons}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -10771,11 +10771,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:paddingBottomNoButtons
+          @attr name com.cs386.NAUToDo:paddingBottomNoButtons
         */
         public static final int RecycleListView_paddingBottomNoButtons = 0;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#paddingTopNoTitle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#paddingTopNoTitle}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -10787,7 +10787,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:paddingTopNoTitle
+          @attr name com.cs386.NAUToDo:paddingTopNoTitle
         */
         public static final int RecycleListView_paddingTopNoTitle = 1;
         /** Attributes that can be used with a RecyclerView.
@@ -10798,10 +10798,10 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
            <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_layoutManager com.cs399.i_buy_3:layoutManager}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_reverseLayout com.cs399.i_buy_3:reverseLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_spanCount com.cs399.i_buy_3:spanCount}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_stackFromEnd com.cs399.i_buy_3:stackFromEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_layoutManager com.cs386.NAUToDo:layoutManager}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_reverseLayout com.cs386.NAUToDo:reverseLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_spanCount com.cs386.NAUToDo:spanCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_stackFromEnd com.cs386.NAUToDo:stackFromEnd}</code></td><td></td></tr>
            </table>
            @see #RecyclerView_android_descendantFocusability
            @see #RecyclerView_android_orientation
@@ -10827,7 +10827,7 @@ containing a value of this type.
         */
         public static final int RecyclerView_android_orientation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layoutManager}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layoutManager}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -10837,11 +10837,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:layoutManager
+          @attr name com.cs386.NAUToDo:layoutManager
         */
         public static final int RecyclerView_layoutManager = 2;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#reverseLayout}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#reverseLayout}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -10851,11 +10851,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:reverseLayout
+          @attr name com.cs386.NAUToDo:reverseLayout
         */
         public static final int RecyclerView_reverseLayout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#spanCount}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#spanCount}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -10865,11 +10865,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:spanCount
+          @attr name com.cs386.NAUToDo:spanCount
         */
         public static final int RecyclerView_spanCount = 3;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#stackFromEnd}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#stackFromEnd}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -10879,7 +10879,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:stackFromEnd
+          @attr name com.cs386.NAUToDo:stackFromEnd
         */
         public static final int RecyclerView_stackFromEnd = 5;
         /** Attributes that can be used with a ScrimInsetsFrameLayout.
@@ -10888,7 +10888,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.cs399.i_buy_3:insetForeground}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.cs386.NAUToDo:insetForeground}</code></td><td></td></tr>
            </table>
            @see #ScrimInsetsFrameLayout_insetForeground
          */
@@ -10896,7 +10896,7 @@ containing a value of this type.
             0x7f010122
         };
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#insetForeground}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#insetForeground}
           attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
 
 
@@ -10904,7 +10904,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.cs399.i_buy_3:insetForeground
+          @attr name com.cs386.NAUToDo:insetForeground
         */
         public static final int ScrimInsetsFrameLayout_insetForeground = 0;
         /** Attributes that can be used with a ScrollingViewBehavior_Layout.
@@ -10913,7 +10913,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.cs399.i_buy_3:behavior_overlapTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.cs386.NAUToDo:behavior_overlapTop}</code></td><td></td></tr>
            </table>
            @see #ScrollingViewBehavior_Layout_behavior_overlapTop
          */
@@ -10921,7 +10921,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010123
         };
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#behavior_overlapTop}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#behavior_overlapTop}
           attribute's value can be found in the {@link #ScrollingViewBehavior_Layout} array.
 
 
@@ -10933,7 +10933,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:behavior_overlapTop
+          @attr name com.cs386.NAUToDo:behavior_overlapTop
         */
         public static final int ScrollingViewBehavior_Layout_behavior_overlapTop = 0;
         /** Attributes that can be used with a SearchView.
@@ -10946,19 +10946,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon com.cs399.i_buy_3:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon com.cs399.i_buy_3:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint com.cs399.i_buy_3:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon com.cs399.i_buy_3:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault com.cs399.i_buy_3:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout com.cs399.i_buy_3:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground com.cs399.i_buy_3:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint com.cs399.i_buy_3:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon com.cs399.i_buy_3:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon com.cs399.i_buy_3:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground com.cs399.i_buy_3:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout com.cs399.i_buy_3:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon com.cs399.i_buy_3:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon com.cs386.NAUToDo:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon com.cs386.NAUToDo:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint com.cs386.NAUToDo:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon com.cs386.NAUToDo:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault com.cs386.NAUToDo:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout com.cs386.NAUToDo:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground com.cs386.NAUToDo:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint com.cs386.NAUToDo:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon com.cs386.NAUToDo:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon com.cs386.NAUToDo:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground com.cs386.NAUToDo:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout com.cs386.NAUToDo:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon com.cs386.NAUToDo:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -11010,27 +11010,27 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:closeIcon
+          @attr name com.cs386.NAUToDo:closeIcon
         */
         public static final int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:commitIcon
+          @attr name com.cs386.NAUToDo:commitIcon
         */
         public static final int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -11040,21 +11040,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:defaultQueryHint
+          @attr name com.cs386.NAUToDo:defaultQueryHint
         */
         public static final int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:goIcon
+          @attr name com.cs386.NAUToDo:goIcon
         */
         public static final int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -11064,31 +11064,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:iconifiedByDefault
+          @attr name com.cs386.NAUToDo:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#layout}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:layout
+          @attr name com.cs386.NAUToDo:layout
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:queryBackground
+          @attr name com.cs386.NAUToDo:queryBackground
         */
         public static final int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -11098,57 +11098,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:queryHint
+          @attr name com.cs386.NAUToDo:queryHint
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:searchHintIcon
+          @attr name com.cs386.NAUToDo:searchHintIcon
         */
         public static final int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:searchIcon
+          @attr name com.cs386.NAUToDo:searchIcon
         */
         public static final int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:submitBackground
+          @attr name com.cs386.NAUToDo:submitBackground
         */
         public static final int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:suggestionRowLayout
+          @attr name com.cs386.NAUToDo:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:voiceIcon
+          @attr name com.cs386.NAUToDo:voiceIcon
         */
         public static final int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a SnackbarLayout.
@@ -11158,8 +11158,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_elevation com.cs399.i_buy_3:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.cs399.i_buy_3:maxActionInlineWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_elevation com.cs386.NAUToDo:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.cs386.NAUToDo:maxActionInlineWidth}</code></td><td></td></tr>
            </table>
            @see #SnackbarLayout_android_maxWidth
            @see #SnackbarLayout_elevation
@@ -11175,7 +11175,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SnackbarLayout_android_maxWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#elevation}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -11187,11 +11187,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:elevation
+          @attr name com.cs386.NAUToDo:elevation
         */
         public static final int SnackbarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#maxActionInlineWidth}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#maxActionInlineWidth}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -11203,7 +11203,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:maxActionInlineWidth
+          @attr name com.cs386.NAUToDo:maxActionInlineWidth
         */
         public static final int SnackbarLayout_maxActionInlineWidth = 2;
         /** Attributes that can be used with a Spinner.
@@ -11216,7 +11216,7 @@ containing a value of this type.
            <tr><td><code>{@link #Spinner_android_entries android:entries}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme com.cs399.i_buy_3:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme com.cs386.NAUToDo:popupTheme}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_entries
@@ -11253,13 +11253,13 @@ containing a value of this type.
         */
         public static final int Spinner_android_prompt = 2;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#popupTheme}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:popupTheme
+          @attr name com.cs386.NAUToDo:popupTheme
         */
         public static final int Spinner_popupTheme = 4;
         /** Attributes that can be used with a SwitchCompat.
@@ -11271,17 +11271,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText com.cs399.i_buy_3:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack com.cs399.i_buy_3:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.cs399.i_buy_3:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding com.cs399.i_buy_3:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.cs399.i_buy_3:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.cs399.i_buy_3:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTint com.cs399.i_buy_3:thumbTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTintMode com.cs399.i_buy_3:thumbTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track com.cs399.i_buy_3:track}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTint com.cs399.i_buy_3:trackTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTintMode com.cs399.i_buy_3:trackTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText com.cs386.NAUToDo:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack com.cs386.NAUToDo:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.cs386.NAUToDo:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding com.cs386.NAUToDo:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.cs386.NAUToDo:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.cs386.NAUToDo:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTint com.cs386.NAUToDo:thumbTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTintMode com.cs386.NAUToDo:thumbTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track com.cs386.NAUToDo:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTint com.cs386.NAUToDo:trackTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTintMode com.cs386.NAUToDo:trackTintMode}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -11323,7 +11323,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#showText}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -11333,11 +11333,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:showText
+          @attr name com.cs386.NAUToDo:showText
         */
         public static final int SwitchCompat_showText = 13;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -11347,11 +11347,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:splitTrack
+          @attr name com.cs386.NAUToDo:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 12;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -11363,11 +11363,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:switchMinWidth
+          @attr name com.cs386.NAUToDo:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 10;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -11379,21 +11379,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:switchPadding
+          @attr name com.cs386.NAUToDo:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 11;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:switchTextAppearance
+          @attr name com.cs386.NAUToDo:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -11405,11 +11405,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:thumbTextPadding
+          @attr name com.cs386.NAUToDo:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#thumbTint}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#thumbTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -11420,11 +11420,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:thumbTint
+          @attr name com.cs386.NAUToDo:thumbTint
         */
         public static final int SwitchCompat_thumbTint = 3;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#thumbTintMode}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#thumbTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -11441,21 +11441,21 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:thumbTintMode
+          @attr name com.cs386.NAUToDo:thumbTintMode
         */
         public static final int SwitchCompat_thumbTintMode = 4;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#track}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:track
+          @attr name com.cs386.NAUToDo:track
         */
         public static final int SwitchCompat_track = 5;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#trackTint}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#trackTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -11466,11 +11466,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:trackTint
+          @attr name com.cs386.NAUToDo:trackTint
         */
         public static final int SwitchCompat_trackTint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#trackTintMode}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#trackTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -11487,7 +11487,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:trackTintMode
+          @attr name com.cs386.NAUToDo:trackTintMode
         */
         public static final int SwitchCompat_trackTintMode = 7;
         /** Attributes that can be used with a TabItem.
@@ -11531,22 +11531,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #TabLayout_tabBackground com.cs399.i_buy_3:tabBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabContentStart com.cs399.i_buy_3:tabContentStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabGravity com.cs399.i_buy_3:tabGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorColor com.cs399.i_buy_3:tabIndicatorColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.cs399.i_buy_3:tabIndicatorHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMaxWidth com.cs399.i_buy_3:tabMaxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMinWidth com.cs399.i_buy_3:tabMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMode com.cs399.i_buy_3:tabMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPadding com.cs399.i_buy_3:tabPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingBottom com.cs399.i_buy_3:tabPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingEnd com.cs399.i_buy_3:tabPaddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingStart com.cs399.i_buy_3:tabPaddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingTop com.cs399.i_buy_3:tabPaddingTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.cs399.i_buy_3:tabSelectedTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextAppearance com.cs399.i_buy_3:tabTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextColor com.cs399.i_buy_3:tabTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabBackground com.cs386.NAUToDo:tabBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabContentStart com.cs386.NAUToDo:tabContentStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabGravity com.cs386.NAUToDo:tabGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorColor com.cs386.NAUToDo:tabIndicatorColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.cs386.NAUToDo:tabIndicatorHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMaxWidth com.cs386.NAUToDo:tabMaxWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMinWidth com.cs386.NAUToDo:tabMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMode com.cs386.NAUToDo:tabMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPadding com.cs386.NAUToDo:tabPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingBottom com.cs386.NAUToDo:tabPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingEnd com.cs386.NAUToDo:tabPaddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingStart com.cs386.NAUToDo:tabPaddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingTop com.cs386.NAUToDo:tabPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.cs386.NAUToDo:tabSelectedTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextAppearance com.cs386.NAUToDo:tabTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextColor com.cs386.NAUToDo:tabTextColor}</code></td><td></td></tr>
            </table>
            @see #TabLayout_tabBackground
            @see #TabLayout_tabContentStart
@@ -11572,17 +11572,17 @@ containing a value of this type.
             0x7f010149, 0x7f01014a, 0x7f01014b, 0x7f01014c
         };
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#tabBackground}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#tabBackground}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:tabBackground
+          @attr name com.cs386.NAUToDo:tabBackground
         */
         public static final int TabLayout_tabBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#tabContentStart}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#tabContentStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -11594,11 +11594,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:tabContentStart
+          @attr name com.cs386.NAUToDo:tabContentStart
         */
         public static final int TabLayout_tabContentStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#tabGravity}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#tabGravity}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -11611,11 +11611,11 @@ containing a value of this type.
 <tr><td><code>fill</code></td><td>0</td><td></td></tr>
 <tr><td><code>center</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:tabGravity
+          @attr name com.cs386.NAUToDo:tabGravity
         */
         public static final int TabLayout_tabGravity = 5;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#tabIndicatorColor}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#tabIndicatorColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -11626,11 +11626,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:tabIndicatorColor
+          @attr name com.cs386.NAUToDo:tabIndicatorColor
         */
         public static final int TabLayout_tabIndicatorColor = 0;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#tabIndicatorHeight}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#tabIndicatorHeight}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -11642,11 +11642,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:tabIndicatorHeight
+          @attr name com.cs386.NAUToDo:tabIndicatorHeight
         */
         public static final int TabLayout_tabIndicatorHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#tabMaxWidth}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#tabMaxWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -11658,11 +11658,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:tabMaxWidth
+          @attr name com.cs386.NAUToDo:tabMaxWidth
         */
         public static final int TabLayout_tabMaxWidth = 7;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#tabMinWidth}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#tabMinWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -11674,11 +11674,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:tabMinWidth
+          @attr name com.cs386.NAUToDo:tabMinWidth
         */
         public static final int TabLayout_tabMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#tabMode}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#tabMode}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -11691,11 +11691,11 @@ containing a value of this type.
 <tr><td><code>scrollable</code></td><td>0</td><td></td></tr>
 <tr><td><code>fixed</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:tabMode
+          @attr name com.cs386.NAUToDo:tabMode
         */
         public static final int TabLayout_tabMode = 4;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#tabPadding}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#tabPadding}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -11707,11 +11707,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:tabPadding
+          @attr name com.cs386.NAUToDo:tabPadding
         */
         public static final int TabLayout_tabPadding = 15;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#tabPaddingBottom}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#tabPaddingBottom}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -11723,11 +11723,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:tabPaddingBottom
+          @attr name com.cs386.NAUToDo:tabPaddingBottom
         */
         public static final int TabLayout_tabPaddingBottom = 14;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#tabPaddingEnd}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#tabPaddingEnd}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -11739,11 +11739,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:tabPaddingEnd
+          @attr name com.cs386.NAUToDo:tabPaddingEnd
         */
         public static final int TabLayout_tabPaddingEnd = 13;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#tabPaddingStart}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#tabPaddingStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -11755,11 +11755,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:tabPaddingStart
+          @attr name com.cs386.NAUToDo:tabPaddingStart
         */
         public static final int TabLayout_tabPaddingStart = 11;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#tabPaddingTop}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#tabPaddingTop}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -11771,11 +11771,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:tabPaddingTop
+          @attr name com.cs386.NAUToDo:tabPaddingTop
         */
         public static final int TabLayout_tabPaddingTop = 12;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#tabSelectedTextColor}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#tabSelectedTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -11786,21 +11786,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:tabSelectedTextColor
+          @attr name com.cs386.NAUToDo:tabSelectedTextColor
         */
         public static final int TabLayout_tabSelectedTextColor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#tabTextAppearance}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#tabTextAppearance}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:tabTextAppearance
+          @attr name com.cs386.NAUToDo:tabTextAppearance
         */
         public static final int TabLayout_tabTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#tabTextColor}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#tabTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -11811,7 +11811,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:tabTextColor
+          @attr name com.cs386.NAUToDo:tabTextColor
         */
         public static final int TabLayout_tabTextColor = 9;
         /** Attributes that can be used with a TextAppearance.
@@ -11829,7 +11829,7 @@ containing a value of this type.
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps com.cs399.i_buy_3:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps com.cs386.NAUToDo:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_shadowColor
            @see #TextAppearance_android_shadowDx
@@ -11902,14 +11902,14 @@ containing a value of this type.
         */
         public static final int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.cs399.i_buy_3:textAllCaps
+          @attr name com.cs386.NAUToDo:textAllCaps
         */
         public static final int TextAppearance_textAllCaps = 9;
         /** Attributes that can be used with a TextInputLayout.
@@ -11920,20 +11920,20 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
            <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterEnabled com.cs399.i_buy_3:counterEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterMaxLength com.cs399.i_buy_3:counterMaxLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.cs399.i_buy_3:counterOverflowTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.cs399.i_buy_3:counterTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorEnabled com.cs399.i_buy_3:errorEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.cs399.i_buy_3:errorTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.cs399.i_buy_3:hintAnimationEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintEnabled com.cs399.i_buy_3:hintEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.cs399.i_buy_3:hintTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.cs399.i_buy_3:passwordToggleContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.cs399.i_buy_3:passwordToggleDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.cs399.i_buy_3:passwordToggleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.cs399.i_buy_3:passwordToggleTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.cs399.i_buy_3:passwordToggleTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterEnabled com.cs386.NAUToDo:counterEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterMaxLength com.cs386.NAUToDo:counterMaxLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.cs386.NAUToDo:counterOverflowTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.cs386.NAUToDo:counterTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorEnabled com.cs386.NAUToDo:errorEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.cs386.NAUToDo:errorTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.cs386.NAUToDo:hintAnimationEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintEnabled com.cs386.NAUToDo:hintEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.cs386.NAUToDo:hintTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.cs386.NAUToDo:passwordToggleContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.cs386.NAUToDo:passwordToggleDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.cs386.NAUToDo:passwordToggleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.cs386.NAUToDo:passwordToggleTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.cs386.NAUToDo:passwordToggleTintMode}</code></td><td></td></tr>
            </table>
            @see #TextInputLayout_android_hint
            @see #TextInputLayout_android_textColorHint
@@ -11971,7 +11971,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int TextInputLayout_android_textColorHint = 0;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#counterEnabled}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#counterEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -11981,11 +11981,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:counterEnabled
+          @attr name com.cs386.NAUToDo:counterEnabled
         */
         public static final int TextInputLayout_counterEnabled = 6;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#counterMaxLength}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#counterMaxLength}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -11995,31 +11995,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:counterMaxLength
+          @attr name com.cs386.NAUToDo:counterMaxLength
         */
         public static final int TextInputLayout_counterMaxLength = 7;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#counterOverflowTextAppearance}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#counterOverflowTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:counterOverflowTextAppearance
+          @attr name com.cs386.NAUToDo:counterOverflowTextAppearance
         */
         public static final int TextInputLayout_counterOverflowTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#counterTextAppearance}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#counterTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:counterTextAppearance
+          @attr name com.cs386.NAUToDo:counterTextAppearance
         */
         public static final int TextInputLayout_counterTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#errorEnabled}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#errorEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -12029,21 +12029,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:errorEnabled
+          @attr name com.cs386.NAUToDo:errorEnabled
         */
         public static final int TextInputLayout_errorEnabled = 4;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#errorTextAppearance}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#errorTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:errorTextAppearance
+          @attr name com.cs386.NAUToDo:errorTextAppearance
         */
         public static final int TextInputLayout_errorTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#hintAnimationEnabled}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#hintAnimationEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -12053,11 +12053,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:hintAnimationEnabled
+          @attr name com.cs386.NAUToDo:hintAnimationEnabled
         */
         public static final int TextInputLayout_hintAnimationEnabled = 10;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#hintEnabled}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#hintEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -12067,21 +12067,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:hintEnabled
+          @attr name com.cs386.NAUToDo:hintEnabled
         */
         public static final int TextInputLayout_hintEnabled = 3;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#hintTextAppearance}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#hintTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:hintTextAppearance
+          @attr name com.cs386.NAUToDo:hintTextAppearance
         */
         public static final int TextInputLayout_hintTextAppearance = 2;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#passwordToggleContentDescription}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#passwordToggleContentDescription}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -12091,21 +12091,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:passwordToggleContentDescription
+          @attr name com.cs386.NAUToDo:passwordToggleContentDescription
         */
         public static final int TextInputLayout_passwordToggleContentDescription = 13;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#passwordToggleDrawable}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#passwordToggleDrawable}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:passwordToggleDrawable
+          @attr name com.cs386.NAUToDo:passwordToggleDrawable
         */
         public static final int TextInputLayout_passwordToggleDrawable = 12;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#passwordToggleEnabled}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#passwordToggleEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -12115,11 +12115,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:passwordToggleEnabled
+          @attr name com.cs386.NAUToDo:passwordToggleEnabled
         */
         public static final int TextInputLayout_passwordToggleEnabled = 11;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#passwordToggleTint}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#passwordToggleTint}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -12130,11 +12130,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:passwordToggleTint
+          @attr name com.cs386.NAUToDo:passwordToggleTint
         */
         public static final int TextInputLayout_passwordToggleTint = 14;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#passwordToggleTintMode}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#passwordToggleTintMode}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -12150,7 +12150,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:passwordToggleTintMode
+          @attr name com.cs386.NAUToDo:passwordToggleTintMode
         */
         public static final int TextInputLayout_passwordToggleTintMode = 15;
         /** Attributes that can be used with a Toolbar.
@@ -12161,33 +12161,33 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_buttonGravity com.cs399.i_buy_3:buttonGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription com.cs399.i_buy_3:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon com.cs399.i_buy_3:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd com.cs399.i_buy_3:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.cs399.i_buy_3:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft com.cs399.i_buy_3:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight com.cs399.i_buy_3:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart com.cs399.i_buy_3:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.cs399.i_buy_3:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logo com.cs399.i_buy_3:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription com.cs399.i_buy_3:logoDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight com.cs399.i_buy_3:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription com.cs399.i_buy_3:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon com.cs399.i_buy_3:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme com.cs399.i_buy_3:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle com.cs399.i_buy_3:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.cs399.i_buy_3:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor com.cs399.i_buy_3:subtitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title com.cs399.i_buy_3:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargin com.cs399.i_buy_3:titleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom com.cs399.i_buy_3:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd com.cs399.i_buy_3:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart com.cs399.i_buy_3:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop com.cs399.i_buy_3:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins com.cs399.i_buy_3:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance com.cs399.i_buy_3:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor com.cs399.i_buy_3:titleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_buttonGravity com.cs386.NAUToDo:buttonGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription com.cs386.NAUToDo:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon com.cs386.NAUToDo:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd com.cs386.NAUToDo:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.cs386.NAUToDo:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft com.cs386.NAUToDo:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight com.cs386.NAUToDo:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart com.cs386.NAUToDo:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.cs386.NAUToDo:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logo com.cs386.NAUToDo:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logoDescription com.cs386.NAUToDo:logoDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight com.cs386.NAUToDo:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription com.cs386.NAUToDo:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon com.cs386.NAUToDo:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme com.cs386.NAUToDo:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle com.cs386.NAUToDo:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.cs386.NAUToDo:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor com.cs386.NAUToDo:subtitleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title com.cs386.NAUToDo:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargin com.cs386.NAUToDo:titleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom com.cs386.NAUToDo:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd com.cs386.NAUToDo:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart com.cs386.NAUToDo:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop com.cs386.NAUToDo:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins com.cs386.NAUToDo:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance com.cs386.NAUToDo:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor com.cs386.NAUToDo:titleTextColor}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -12242,7 +12242,7 @@ containing a value of this type.
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#buttonGravity}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#buttonGravity}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -12255,11 +12255,11 @@ containing a value of this type.
 <tr><td><code>top</code></td><td>0x30</td><td></td></tr>
 <tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:buttonGravity
+          @attr name com.cs386.NAUToDo:buttonGravity
         */
         public static final int Toolbar_buttonGravity = 21;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -12269,21 +12269,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:collapseContentDescription
+          @attr name com.cs386.NAUToDo:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 23;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:collapseIcon
+          @attr name com.cs386.NAUToDo:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 22;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -12295,11 +12295,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:contentInsetEnd
+          @attr name com.cs386.NAUToDo:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 6;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -12311,11 +12311,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:contentInsetEndWithActions
+          @attr name com.cs386.NAUToDo:contentInsetEndWithActions
         */
         public static final int Toolbar_contentInsetEndWithActions = 10;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -12327,11 +12327,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:contentInsetLeft
+          @attr name com.cs386.NAUToDo:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -12343,11 +12343,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:contentInsetRight
+          @attr name com.cs386.NAUToDo:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 8;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -12359,11 +12359,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:contentInsetStart
+          @attr name com.cs386.NAUToDo:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 5;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -12375,21 +12375,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:contentInsetStartWithNavigation
+          @attr name com.cs386.NAUToDo:contentInsetStartWithNavigation
         */
         public static final int Toolbar_contentInsetStartWithNavigation = 9;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#logo}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:logo
+          @attr name com.cs386.NAUToDo:logo
         */
         public static final int Toolbar_logo = 4;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#logoDescription}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#logoDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -12399,11 +12399,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:logoDescription
+          @attr name com.cs386.NAUToDo:logoDescription
         */
         public static final int Toolbar_logoDescription = 26;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -12415,11 +12415,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:maxButtonHeight
+          @attr name com.cs386.NAUToDo:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 20;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -12429,31 +12429,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:navigationContentDescription
+          @attr name com.cs386.NAUToDo:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 25;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:navigationIcon
+          @attr name com.cs386.NAUToDo:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 24;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:popupTheme
+          @attr name com.cs386.NAUToDo:popupTheme
         */
         public static final int Toolbar_popupTheme = 11;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -12463,21 +12463,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:subtitle
+          @attr name com.cs386.NAUToDo:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:subtitleTextAppearance
+          @attr name com.cs386.NAUToDo:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 13;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#subtitleTextColor}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#subtitleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -12488,11 +12488,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:subtitleTextColor
+          @attr name com.cs386.NAUToDo:subtitleTextColor
         */
         public static final int Toolbar_subtitleTextColor = 28;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#title}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -12502,11 +12502,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:title
+          @attr name com.cs386.NAUToDo:title
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#titleMargin}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#titleMargin}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -12518,11 +12518,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:titleMargin
+          @attr name com.cs386.NAUToDo:titleMargin
         */
         public static final int Toolbar_titleMargin = 14;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -12534,11 +12534,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:titleMarginBottom
+          @attr name com.cs386.NAUToDo:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 18;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -12550,11 +12550,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:titleMarginEnd
+          @attr name com.cs386.NAUToDo:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 16;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -12566,11 +12566,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:titleMarginStart
+          @attr name com.cs386.NAUToDo:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 15;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -12582,11 +12582,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:titleMarginTop
+          @attr name com.cs386.NAUToDo:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 17;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -12598,21 +12598,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:titleMargins
+          @attr name com.cs386.NAUToDo:titleMargins
         */
         public static final int Toolbar_titleMargins = 19;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:titleTextAppearance
+          @attr name com.cs386.NAUToDo:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 12;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#titleTextColor}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#titleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -12623,7 +12623,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:titleTextColor
+          @attr name com.cs386.NAUToDo:titleTextColor
         */
         public static final int Toolbar_titleTextColor = 27;
         /** Attributes that can be used with a View.
@@ -12634,9 +12634,9 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd com.cs399.i_buy_3:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart com.cs399.i_buy_3:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme com.cs399.i_buy_3:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd com.cs386.NAUToDo:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart com.cs386.NAUToDo:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme com.cs386.NAUToDo:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -12661,7 +12661,7 @@ containing a value of this type.
         */
         public static final int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -12673,11 +12673,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:paddingEnd
+          @attr name com.cs386.NAUToDo:paddingEnd
         */
         public static final int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -12689,17 +12689,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:paddingStart
+          @attr name com.cs386.NAUToDo:paddingStart
         */
         public static final int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#theme}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.cs399.i_buy_3:theme
+          @attr name com.cs386.NAUToDo:theme
         */
         public static final int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
@@ -12709,8 +12709,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.cs399.i_buy_3:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.cs399.i_buy_3:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.cs386.NAUToDo:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.cs386.NAUToDo:backgroundTintMode}</code></td><td></td></tr>
            </table>
            @see #ViewBackgroundHelper_android_background
            @see #ViewBackgroundHelper_backgroundTint
@@ -12726,7 +12726,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ViewBackgroundHelper_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#backgroundTint}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -12737,11 +12737,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.cs399.i_buy_3:backgroundTint
+          @attr name com.cs386.NAUToDo:backgroundTint
         */
         public static final int ViewBackgroundHelper_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.cs399.i_buy_3.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link com.cs386.NAUToDo.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -12757,7 +12757,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.cs399.i_buy_3:backgroundTintMode
+          @attr name com.cs386.NAUToDo:backgroundTintMode
         */
         public static final int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.
