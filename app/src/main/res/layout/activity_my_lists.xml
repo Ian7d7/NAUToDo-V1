@@ -71,7 +71,8 @@
                 android:divider="@color/colorDivider"
                 android:dividerHeight="@dimen/cardview_compat_inset_shadow"
                 android:scrollbars="none|vertical"
-                android:visibility="visible" />
+                android:visibility="visible"
+                android:choiceMode="multipleChoice"/>
 
         </RelativeLayout>
 

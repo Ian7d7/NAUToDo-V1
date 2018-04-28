@@ -19,7 +19,8 @@
         android:scrollbars="none|vertical"
         android:visibility="visible"
         tools:layout_editor_absoluteY="0dp"
-        tools:layout_editor_absoluteX="8dp" />
+        tools:layout_editor_absoluteX="8dp"
+        android:choiceMode="multipleChoice"/>
 
     <Button
         android:id="@+id/AddItem"

@@ -2,16 +2,13 @@ package com.cs386.NAUToDo;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
-
-import org.w3c.dom.Text;
 
 public class EditItem extends AppCompatActivity {
     String accountPK;
@@ -24,6 +21,7 @@ public class EditItem extends AppCompatActivity {
     private Button Rename;
     private Button Remove;
     private Button Back;
+    private ListView mListView;
     DataBaseHelper mDatabaseHelper;
 
 
@@ -37,6 +35,7 @@ public class EditItem extends AppCompatActivity {
         DeIncrement = (Button) findViewById(R.id.Dencrement);
         Remove = (Button) findViewById(R.id.Remove);
         Rename = (Button) findViewById(R.id.Rename);
+        mListView = (ListView) findViewById(R.id.list);
         Back = (Button) findViewById(R.id.Back);
         Quantity = (TextView) findViewById(R.id.Quantity);
         mDatabaseHelper = new DataBaseHelper(this);
@@ -74,6 +73,7 @@ public class EditItem extends AppCompatActivity {
                 Quantity.setText(mDatabaseHelper.GETITEMQUANTITY(itemPK)+"");
             }
         });
+
         Rename.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
