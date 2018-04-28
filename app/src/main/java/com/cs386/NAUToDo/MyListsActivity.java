@@ -31,7 +31,6 @@ public class MyListsActivity extends AppCompatActivity implements AdapterView.On
     private Button LogOut;
     private TextView ListName;
     DataBaseHelper mDatabaseHelper;
-    private String[] fillList = {"Apples", "Bananas", "Corn", "Dog", "Elephant", "Fish"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

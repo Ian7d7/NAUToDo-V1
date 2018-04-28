@@ -1,6 +1,7 @@
 <component name="libraryTable">
   <library name="Gradle: com.android.support.test.espresso:espresso-core-2.2.2">
     <CLASSES>
+<<<<<<< HEAD
       <root url="jar://$USER_HOME$/.android/build-cache/f5ee8ae59e3ee802e17c3be445b6d1bb7e509b55/output/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.android/build-cache/f5ee8ae59e3ee802e17c3be445b6d1bb7e509b55/output/res" />
     </CLASSES>
@@ -9,6 +10,16 @@
     </JAVADOC>
     <SOURCES>
       <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/extras/android/m2repository/com/android/support/test/espresso/espresso-core/2.2.2/espresso-core-2.2.2-sources.jar!/" />
+=======
+      <root url="file://$USER_HOME$/.android/build-cache/02cf8461ecaa91bfd3428f04b959f2db15c5981d/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/02cf8461ecaa91bfd3428f04b959f2db15c5981d/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/test/espresso/espresso-core/2.2.2/espresso-core-2.2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/test/espresso/espresso-core/2.2.2/espresso-core-2.2.2-sources.jar!/" />
+>>>>>>> origin/master
     </SOURCES>
   </library>
 </component>
